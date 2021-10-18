@@ -10,7 +10,7 @@ This is the code release associated with the NeurIPS 2021 paper *Generating High
 @inproceedings{stein2021xailsp,
   title = {Generating High-Quality Explanations for Navigation in Partially-Revealed Environments},
   author = {Gregory J. Stein},
-	booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
   year = 2021,
   keywords = {explainability; planning under uncertainty; subgoal-based planning; interpretable-by-design},
 }
