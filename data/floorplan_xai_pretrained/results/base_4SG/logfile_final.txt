@@ -1,0 +1,2079 @@
+LOG: 11001/5
+LOG: 11002/5
+LOG: 11000/5
+LOG: 11003/5
+[Learn]  s: 11000 | learned: 38.856 | baseline: 38.856
+LOG: 11004/5
+[Learn]  s: 11003 | learned: 89.807 | baseline: 88.818
+LOG: 11005/5
+[Learn]  s: 11002 | learned: 112.383 | baseline: 109.407
+LOG: 11006/5
+[Learn]  s: 11004 | learned: 282.607 | baseline: 282.343
+LOG: 11007/5
+[Learn]  s: 11006 | learned: 386.407 | baseline: 418.225
+LOG: 11008/5
+[Learn]  s: 11001 | learned: 561.721 | baseline: 826.289
+LOG: 11009/5
+[Learn]  s: 11007 | learned: 305.577 | baseline: 520.955
+LOG: 11010/5
+[Learn]  s: 11009 | learned: 42.594 | baseline: 42.594
+LOG: 11011/5
+[Learn]  s: 11011 | learned: 21.157 | baseline: 21.157
+LOG: 11012/5
+[Learn]  s: 11010 | learned: 682.285 | baseline: 523.317
+LOG: 11013/5
+[Learn]  s: 11005 | learned: 765.882 | baseline: 861.961
+LOG: 11014/5
+[Learn]  s: 11013 | learned: 81.995 | baseline: 81.848
+LOG: 11015/5
+[Learn]  s: 11015 | learned: 100.142 | baseline: 100.143
+LOG: 11016/5
+[Learn]  s: 11016 | learned: 116.052 | baseline: 116.052
+[Learn]  s: 11008 | learned: 1083.962 | baseline: 1077.790
+LOG: 11017/5
+[Learn]  s: 11012 | learned: 1066.001 | baseline: 1398.141
+LOG: 11018/5
+LOG: 11019/5
+[Learn]  s: 11014 | learned: 299.546 | baseline: 397.478
+LOG: 11020/5
+[Learn]  s: 11018 | learned: 47.037 | baseline: 47.037
+LOG: 11021/5
+[Learn]  s: 11020 | learned: 187.966 | baseline: 204.840
+LOG: 11022/5
+[Learn]  s: 11019 | learned: 642.365 | baseline: 708.257
+LOG: 11023/5
+[Learn]  s: 11023 | learned: 51.285 | baseline: 51.285
+LOG: 11024/5
+[Learn]  s: 11024 | learned: 71.805 | baseline: 71.805
+LOG: 11025/5
+[Learn]  s: 11021 | learned: 643.078 | baseline: 597.530
+LOG: 11026/5
+[Learn]  s: 11025 | learned: 110.859 | baseline: 110.868
+LOG: 11027/5
+[Learn]  s: 11022 | learned: 645.845 | baseline: 1026.959
+LOG: 11028/5
+[Learn]  s: 11026 | learned: 436.758 | baseline: 436.289
+LOG: 11029/5
+[Learn]  s: 11027 | learned: 177.299 | baseline: 386.724
+LOG: 11030/5
+[Learn]  s: 11028 | learned: 121.542 | baseline: 165.448
+LOG: 11031/5
+[Learn]  s: 11030 | learned: 46.368 | baseline: 46.368
+LOG: 11032/5
+[Learn]  s: 11029 | learned: 273.184 | baseline: 274.563
+LOG: 11033/5
+[Learn]  s: 11031 | learned: 313.524 | baseline: 362.321
+LOG: 11034/5
+[Learn]  s: 11033 | learned: 291.576 | baseline: 323.623
+LOG: 11035/5
+[Learn]  s: 11034 | learned: 94.489 | baseline: 94.481
+LOG: 11036/5
+[Learn]  s: 11035 | learned: 101.536 | baseline: 101.536
+LOG: 11037/5
+[Learn]  s: 11036 | learned: 92.578 | baseline: 92.528
+LOG: 11038/5
+[Learn]  s: 11017 | learned: 996.415 | baseline: 1097.411
+LOG: 11039/5
+[Learn]  s: 11038 | learned: 165.137 | baseline: 165.064
+LOG: 11040/5
+[Learn]  s: 11039 | learned: 208.105 | baseline: 168.073
+LOG: 11041/5
+[Learn]  s: 11032 | learned: 1105.235 | baseline: 1589.623
+LOG: 11042/5
+[Learn]  s: 11037 | learned: 947.058 | baseline: 1281.194
+LOG: 11043/5
+[Learn]  s: 11042 | learned: 87.724 | baseline: 100.498
+LOG: 11044/5
+[Learn]  s: 11043 | learned: 249.285 | baseline: 247.246
+LOG: 11045/5
+[Learn]  s: 11044 | learned: 8.299 | baseline: 8.299
+LOG: 11046/5
+[Learn]  s: 11040 | learned: 1193.297 | baseline: 1211.211
+LOG: 11047/5
+[Learn]  s: 11045 | learned: 256.945 | baseline: 245.411
+LOG: 11048/5
+[Learn]  s: 11047 | learned: 179.268 | baseline: 179.199
+LOG: 11049/5
+[Learn]  s: 11049 | learned: 72.883 | baseline: 72.883
+LOG: 11050/5
+[Learn]  s: 11046 | learned: 298.187 | baseline: 297.939
+LOG: 11051/5
+[Learn]  s: 11050 | learned: 113.980 | baseline: 114.376
+LOG: 11052/5
+[Learn]  s: 11052 | learned: 179.170 | baseline: 241.932
+LOG: 11053/5
+[Learn]  s: 11051 | learned: 239.715 | baseline: 236.175
+LOG: 11054/5
+[Learn]  s: 11048 | learned: 780.632 | baseline: 679.035
+LOG: 11055/5
+[Learn]  s: 11055 | learned: 440.889 | baseline: 445.792
+LOG: 11056/5
+[Learn]  s: 11041 | learned: 1843.824 | baseline: 1730.518
+LOG: 11057/5
+[Learn]  s: 11056 | learned: 133.716 | baseline: 133.729
+LOG: 11058/5
+[Learn]  s: 11057 | learned: 317.753 | baseline: 424.165
+LOG: 11059/5
+[Learn]  s: 11054 | learned: 647.985 | baseline: 1040.394
+LOG: 11060/5
+[Learn]  s: 11059 | learned: 238.482 | baseline: 238.728
+LOG: 11061/5
+[Learn]  s: 11053 | learned: 786.621 | baseline: 913.338
+LOG: 11062/5
+[Learn]  s: 11060 | learned: 395.497 | baseline: 298.843
+LOG: 11063/5
+[Learn]  s: 11061 | learned: 294.826 | baseline: 324.156
+LOG: 11064/5
+[Learn]  s: 11062 | learned: 246.503 | baseline: 391.198
+LOG: 11065/5
+[Learn]  s: 11065 | learned: 507.200 | baseline: 598.831
+LOG: 11066/5
+[Learn]  s: 11063 | learned: 678.840 | baseline: 875.617
+LOG: 11067/5
+[Learn]  s: 11066 | learned: 133.973 | baseline: 132.257
+LOG: 11068/5
+[Learn]  s: 11068 | learned: 196.886 | baseline: 203.225
+LOG: 11069/5
+[Learn]  s: 11064 | learned: 894.020 | baseline: 598.582
+LOG: 11070/5
+[Learn] [ERR] s: 11058 | learned: 695.169 | baseline: 2034.862
+LOG: 11071/5
+[Learn]  s: 11071 | learned: 184.388 | baseline: 184.228
+LOG: 11072/5
+[Learn]  s: 11069 | learned: 1091.985 | baseline: 299.000
+LOG: 11073/5
+[Learn]  s: 11070 | learned: 639.771 | baseline: 540.588
+LOG: 11074/5
+[Learn]  s: 11073 | learned: 49.654 | baseline: 47.947
+LOG: 11075/5
+[Learn]  s: 11075 | learned: 146.800 | baseline: 146.585
+LOG: 11076/5
+[Learn]  s: 11074 | learned: 353.900 | baseline: 354.400
+LOG: 11077/5
+[Learn]  s: 11076 | learned: 179.542 | baseline: 290.277
+LOG: 11078/5
+[Learn]  s: 11078 | learned: 326.615 | baseline: 299.641
+LOG: 11079/5
+[Learn]  s: 11079 | learned: 118.295 | baseline: 118.295
+LOG: 11080/5
+[Learn]  s: 11080 | learned: 103.141 | baseline: 101.466
+LOG: 11081/5
+[Learn]  s: 11081 | learned: 50.325 | baseline: 50.325
+LOG: 11082/5
+[Learn]  s: 11082 | learned: 298.069 | baseline: 238.009
+LOG: 11083/5
+[Learn]  s: 11072 | learned: 1040.710 | baseline: 1087.328
+LOG: 11084/5
+[Learn]  s: 11067 | learned: 1723.137 | baseline: 2183.530
+LOG: 11085/5
+[Learn]  s: 11084 | learned: 638.754 | baseline: 580.894
+LOG: 11086/5
+[Learn]  s: 11085 | learned: 285.594 | baseline: 308.892
+LOG: 11087/5
+[Learn]  s: 11083 | learned: 756.792 | baseline: 774.600
+LOG: 11088/5
+[Learn]  s: 11087 | learned: 278.326 | baseline: 456.859
+LOG: 11089/5
+[Learn]  s: 11086 | learned: 389.696 | baseline: 686.119
+LOG: 11090/5
+[Learn]  s: 11088 | learned: 223.544 | baseline: 226.797
+LOG: 11091/5
+[Learn]  s: 11089 | learned: 314.009 | baseline: 368.366
+LOG: 11092/5
+[Learn]  s: 11090 | learned: 307.100 | baseline: 343.131
+LOG: 11093/5
+[Learn]  s: 11091 | learned: 190.147 | baseline: 212.948
+LOG: 11094/5
+[Learn]  s: 11092 | learned: 171.244 | baseline: 412.431
+LOG: 11095/5
+[Learn]  s: 11095 | learned: 159.153 | baseline: 159.004
+LOG: 11096/5
+[Learn]  s: 11096 | learned: 87.738 | baseline: 87.538
+LOG: 11097/5
+[Learn]  s: 11097 | learned: 163.205 | baseline: 166.655
+LOG: 11098/5
+[Learn]  s: 11077 | learned: 1855.496 | baseline: 2053.317
+LOG: 11099/5
+[Learn]  s: 11094 | learned: 804.065 | baseline: 1014.790
+LOG: 11100/5
+[Learn]  s: 11093 | learned: 609.624 | baseline: 1117.302
+LOG: 11101/5
+[Learn]  s: 11099 | learned: 224.731 | baseline: 204.654
+LOG: 11102/5
+[Learn]  s: 11098 | learned: 485.563 | baseline: 618.442
+LOG: 11103/5
+[Learn]  s: 11102 | learned: 312.727 | baseline: 428.672
+LOG: 11104/5
+[Learn]  s: 11103 | learned: 594.215 | baseline: 448.676
+LOG: 11105/5
+[Learn]  s: 11105 | learned: 132.179 | baseline: 132.130
+LOG: 11106/5
+[Learn]  s: 11106 | learned: 358.840 | baseline: 455.227
+LOG: 11107/5
+[Learn]  s: 11107 | learned: 83.981 | baseline: 83.981
+LOG: 11108/5
+[Learn]  s: 11108 | learned: 247.215 | baseline: 249.713
+LOG: 11109/5
+[Learn]  s: 11101 | learned: 1272.866 | baseline: 1164.223
+LOG: 11110/5
+[Learn]  s: 11109 | learned: 406.288 | baseline: 411.569
+LOG: 11111/5
+[Learn]  s: 11110 | learned: 130.829 | baseline: 130.829
+LOG: 11112/5
+[Learn]  s: 11111 | learned: 136.073 | baseline: 136.073
+LOG: 11113/5
+[Learn]  s: 11113 | learned: 245.631 | baseline: 268.722
+LOG: 11114/5
+[Learn]  s: 11114 | learned: 59.113 | baseline: 59.113
+LOG: 11115/5
+[Learn]  s: 11115 | learned: 105.381 | baseline: 105.376
+LOG: 11116/5
+[Learn]  s: 11100 | learned: 2114.649 | baseline: 1527.380
+LOG: 11117/5
+[Learn]  s: 11104 | learned: 1594.834 | baseline: 1647.641
+LOG: 11118/5
+[Learn]  s: 11117 | learned: 235.091 | baseline: 241.140
+LOG: 11119/5
+[Learn]  s: 11118 | learned: 88.020 | baseline: 88.020
+LOG: 11120/5
+[Learn]  s: 11119 | learned: 82.363 | baseline: 82.363
+LOG: 11121/5
+[Learn]  s: 11121 | learned: 207.095 | baseline: 207.353
+LOG: 11122/5
+[Learn]  s: 11112 | learned: 736.555 | baseline: 993.852
+LOG: 11123/5
+[Learn]  s: 11123 | learned: 220.266 | baseline: 220.218
+LOG: 11124/5
+[Learn]  s: 11120 | learned: 460.475 | baseline: 450.868
+LOG: 11125/5
+[Learn]  s: 11125 | learned: 169.738 | baseline: 171.565
+LOG: 11126/5
+[Learn]  s: 11122 | learned: 444.497 | baseline: 484.960
+LOG: 11127/5
+[Learn]  s: 11124 | learned: 375.932 | baseline: 432.061
+LOG: 11128/5
+[Learn]  s: 11116 | learned: 963.232 | baseline: 964.879
+LOG: 11129/5
+[Learn]  s: 11129 | learned: 522.501 | baseline: 481.946
+LOG: 11130/5
+[Learn]  s: 11130 | learned: 203.433 | baseline: 203.433
+LOG: 11131/5
+[Learn]  s: 11126 | learned: 572.266 | baseline: 755.175
+LOG: 11132/5
+[Learn]  s: 11131 | learned: 195.762 | baseline: 261.148
+LOG: 11133/5
+[Learn]  s: 11133 | learned: 118.585 | baseline: 118.585
+LOG: 11134/5
+[Learn]  s: 11128 | learned: 769.226 | baseline: 1174.200
+LOG: 11135/5
+[Learn]  s: 11127 | learned: 761.933 | baseline: 1316.987
+LOG: 11136/5
+[Learn]  s: 11135 | learned: 301.874 | baseline: 299.018
+LOG: 11137/5
+[Learn]  s: 11136 | learned: 404.117 | baseline: 430.652
+LOG: 11138/5
+[Learn]  s: 11132 | learned: 632.035 | baseline: 1174.462
+LOG: 11139/5
+[Learn]  s: 11139 | learned: 192.603 | baseline: 179.065
+LOG: 11140/5
+[Learn]  s: 11134 | learned: 914.093 | baseline: 994.489
+LOG: 11141/5
+[Learn]  s: 11140 | learned: 296.702 | baseline: 201.171
+LOG: 11142/5
+[Learn]  s: 11142 | learned: 48.957 | baseline: 48.957
+LOG: 11143/5
+[Learn]  s: 11141 | learned: 435.845 | baseline: 533.214
+LOG: 11144/5
+[Learn]  s: 11138 | learned: 640.910 | baseline: 1114.200
+LOG: 11145/5
+[Learn]  s: 11144 | learned: 206.611 | baseline: 206.319
+LOG: 11146/5
+[Learn]  s: 11143 | learned: 398.681 | baseline: 429.131
+LOG: 11147/5
+[Learn]  s: 11146 | learned: 51.844 | baseline: 51.844
+LOG: 11148/5
+[Learn]  s: 11145 | learned: 287.057 | baseline: 293.716
+LOG: 11149/5
+[Learn]  s: 11149 | learned: 149.200 | baseline: 149.199
+LOG: 11150/5
+[Learn]  s: 11150 | learned: 182.633 | baseline: 182.763
+LOG: 11151/5
+[Learn]  s: 11147 | learned: 385.966 | baseline: 409.712
+LOG: 11152/5
+[Learn]  s: 11137 | learned: 1134.596 | baseline: 1288.133
+LOG: 11153/5
+[Learn]  s: 11148 | learned: 467.010 | baseline: 637.371
+LOG: 11154/5
+[Learn]  s: 11154 | learned: 113.111 | baseline: 143.798
+LOG: 11155/5
+[Learn]  s: 11153 | learned: 95.253 | baseline: 95.253
+LOG: 11156/5
+[Learn]  s: 11155 | learned: 113.013 | baseline: 111.187
+LOG: 11157/5
+[Learn]  s: 11152 | learned: 585.712 | baseline: 546.109
+LOG: 11158/5
+[Learn]  s: 11157 | learned: 93.338 | baseline: 93.338
+LOG: 11159/5
+[Learn] [ERR] s: 11151 | learned: 174.601 | baseline: 968.788
+LOG: 11160/5
+[Learn]  s: 11159 | learned: 539.357 | baseline: 608.758
+LOG: 11161/5
+[Learn]  s: 11156 | learned: 453.428 | baseline: 567.794
+LOG: 11162/5
+[Learn]  s: 11161 | learned: 261.625 | baseline: 261.392
+LOG: 11163/5
+[Learn]  s: 11158 | learned: 594.166 | baseline: 904.719
+LOG: 11164/5
+[Learn]  s: 11163 | learned: 433.651 | baseline: 573.227
+LOG: 11165/5
+[Learn]  s: 11165 | learned: 361.658 | baseline: 365.238
+[Learn]  s: 11162 | learned: 783.592 | baseline: 897.630
+LOG: 11166/5
+LOG: 11167/5
+[Learn]  s: 11167 | learned: 29.605 | baseline: 29.605
+LOG: 11168/5
+[Learn]  s: 11164 | learned: 366.406 | baseline: 337.435
+LOG: 11169/5
+[Learn]  s: 11166 | learned: 269.196 | baseline: 281.503
+LOG: 11170/5
+[Learn]  s: 11168 | learned: 323.624 | baseline: 327.338
+LOG: 11171/5
+[Learn]  s: 11160 | learned: 1046.335 | baseline: 1331.616
+LOG: 11172/5
+[Learn]  s: 11169 | learned: 322.791 | baseline: 336.412
+LOG: 11173/5
+[Learn]  s: 11171 | learned: 80.769 | baseline: 80.769
+LOG: 11174/5
+[Learn]  s: 11174 | learned: 89.279 | baseline: 89.279
+LOG: 11175/5
+[Learn]  s: 11172 | learned: 420.764 | baseline: 447.963
+LOG: 11176/5
+[Learn]  s: 11175 | learned: 420.263 | baseline: 449.545
+LOG: 11177/5
+[Learn]  s: 11177 | learned: 150.773 | baseline: 150.614
+LOG: 11178/5
+[Learn]  s: 11170 | learned: 659.091 | baseline: 818.722
+LOG: 11179/5
+[Learn]  s: 11179 | learned: 172.154 | baseline: 172.159
+LOG: 11180/5
+[Learn]  s: 11178 | learned: 416.766 | baseline: 496.538
+LOG: 11181/5
+[Learn]  s: 11176 | learned: 946.676 | baseline: 964.122
+LOG: 11182/5
+[Learn]  s: 11181 | learned: 703.711 | baseline: 1057.172
+LOG: 11183/5
+[Learn]  s: 11173 | learned: 1275.796 | baseline: 2462.403
+LOG: 11184/5
+[Learn]  s: 11182 | learned: 292.322 | baseline: 386.261
+LOG: 11185/5
+[Learn]  s: 11183 | learned: 139.486 | baseline: 154.603
+LOG: 11186/5
+[Learn]  s: 11186 | learned: 244.361 | baseline: 261.595
+LOG: 11187/5
+[Learn]  s: 11180 | learned: 1023.500 | baseline: 812.502
+LOG: 11188/5
+[Learn]  s: 11185 | learned: 434.865 | baseline: 437.241
+LOG: 11189/5
+[Learn]  s: 11188 | learned: 94.506 | baseline: 94.506
+LOG: 11190/5
+[Learn]  s: 11187 | learned: 392.778 | baseline: 458.629
+LOG: 11191/5
+[Learn]  s: 11184 | learned: 788.455 | baseline: 973.512
+LOG: 11192/5
+[Learn]  s: 11190 | learned: 379.978 | baseline: 391.469
+LOG: 11193/5
+[Learn]  s: 11191 | learned: 422.645 | baseline: 493.487
+LOG: 11194/5
+[Learn]  s: 11192 | learned: 413.519 | baseline: 550.290
+LOG: 11195/5
+[Learn]  s: 11194 | learned: 81.811 | baseline: 84.548
+LOG: 11196/5
+[Learn]  s: 11196 | learned: 165.051 | baseline: 130.070
+LOG: 11197/5
+[Learn]  s: 11189 | learned: 429.770 | baseline: 798.515
+LOG: 11198/5
+[Learn]  s: 11198 | learned: 46.518 | baseline: 46.518
+LOG: 11199/5
+[Learn]  s: 11199 | learned: 175.168 | baseline: 185.106
+LOG: 11200/5
+[Learn]  s: 11200 | learned: 441.377 | baseline: 471.172
+LOG: 11201/5
+[Learn]  s: 11201 | learned: 334.231 | baseline: 335.194
+LOG: 11202/5
+[Learn]  s: 11197 | learned: 1029.980 | baseline: 1217.223
+LOG: 11203/5
+[Learn]  s: 11203 | learned: 160.920 | baseline: 160.875
+LOG: 11204/5
+[Learn]  s: 11204 | learned: 96.246 | baseline: 110.700
+LOG: 11205/5
+[Learn]  s: 11205 | learned: 170.603 | baseline: 153.807
+LOG: 11206/5
+[Learn]  s: 11206 | learned: 82.647 | baseline: 81.170
+LOG: 11207/5
+[Learn]  s: 11195 | learned: 1272.504 | baseline: 1083.718
+LOG: 11208/5
+[Learn]  s: 11202 | learned: 1227.890 | baseline: 507.027
+LOG: 11209/5
+[Learn]  s: 11209 | learned: 233.458 | baseline: 233.418
+LOG: 11210/5
+[Learn]  s: 11208 | learned: 165.921 | baseline: 165.921
+LOG: 11211/5
+[Learn]  s: 11207 | learned: 551.212 | baseline: 635.386
+LOG: 11212/5
+[Learn]  s: 11210 | learned: 211.153 | baseline: 252.514
+LOG: 11213/5
+[Learn]  s: 11211 | learned: 287.497 | baseline: 296.816
+LOG: 11214/5
+[Learn]  s: 11212 | learned: 284.232 | baseline: 279.947
+LOG: 11215/5
+[Learn]  s: 11213 | learned: 315.044 | baseline: 316.273
+LOG: 11216/5
+[Learn]  s: 11216 | learned: 86.018 | baseline: 59.067
+LOG: 11217/5
+[Learn]  s: 11193 | learned: 2586.190 | baseline: 2351.224
+LOG: 11218/5
+[Learn]  s: 11218 | learned: 232.675 | baseline: 242.894
+LOG: 11219/5
+[Learn]  s: 11219 | learned: 158.054 | baseline: 289.192
+LOG: 11220/5
+[Learn]  s: 11215 | learned: 1040.791 | baseline: 1043.684
+LOG: 11221/5
+[Learn]  s: 11220 | learned: 239.759 | baseline: 272.565
+LOG: 11222/5
+[Learn]  s: 11221 | learned: 170.387 | baseline: 181.029
+LOG: 11223/5
+[Learn]  s: 11222 | learned: 159.127 | baseline: 226.166
+LOG: 11224/5
+[Learn]  s: 11223 | learned: 100.743 | baseline: 100.743
+LOG: 11225/5
+[Learn]  s: 11224 | learned: 55.686 | baseline: 55.686
+LOG: 11226/5
+[Learn]  s: 11225 | learned: 125.323 | baseline: 125.345
+LOG: 11227/5
+[Learn]  s: 11214 | learned: 1387.150 | baseline: 2021.451
+LOG: 11228/5
+[Learn]  s: 11228 | learned: 48.473 | baseline: 48.473
+LOG: 11229/5
+[Learn]  s: 11226 | learned: 369.150 | baseline: 501.331
+LOG: 11230/5
+[Learn]  s: 11227 | learned: 286.430 | baseline: 367.270
+LOG: 11231/5
+[Learn]  s: 11229 | learned: 259.849 | baseline: 308.110
+LOG: 11232/5
+[Learn]  s: 11230 | learned: 260.905 | baseline: 255.787
+LOG: 11233/5
+[Learn]  s: 11232 | learned: 226.619 | baseline: 290.546
+LOG: 11234/5
+[Learn]  s: 11233 | learned: 336.598 | baseline: 337.117
+LOG: 11235/5
+[Learn]  s: 11231 | learned: 552.956 | baseline: 674.001
+LOG: 11236/5
+[Learn]  s: 11235 | learned: 64.156 | baseline: 64.156
+LOG: 11237/5
+[Learn]  s: 11237 | learned: 161.095 | baseline: 229.732
+LOG: 11238/5
+[Learn]  s: 11236 | learned: 453.373 | baseline: 553.564
+LOG: 11239/5
+[Learn]  s: 11234 | learned: 564.729 | baseline: 635.825
+LOG: 11240/5
+[Learn]  s: 11239 | learned: 64.018 | baseline: 64.018
+LOG: 11241/5
+[Learn]  s: 11241 | learned: 65.637 | baseline: 65.637
+LOG: 11242/5
+[Learn]  s: 11242 | learned: 335.406 | baseline: 331.224
+LOG: 11243/5
+[Learn]  s: 11238 | learned: 554.435 | baseline: 641.762
+LOG: 11244/5
+[Learn]  s: 11244 | learned: 264.363 | baseline: 296.766
+LOG: 11245/5
+[Learn]  s: 11217 | learned: 2731.387 | baseline: 3192.242
+[Learn]  s: 11243 | learned: 390.486 | baseline: 435.695
+LOG: 11246/5
+LOG: 11247/5
+[Learn]  s: 11247 | learned: 40.434 | baseline: 40.434
+LOG: 11248/5
+[Learn]  s: 11246 | learned: 106.970 | baseline: 107.031
+LOG: 11249/5
+[Learn]  s: 11249 | learned: 72.832 | baseline: 72.898
+LOG: 11250/5
+[Learn]  s: 11250 | learned: 135.981 | baseline: 135.858
+LOG: 11251/5
+[Learn]  s: 11248 | learned: 305.158 | baseline: 305.042
+LOG: 11252/5
+[Learn]  s: 11251 | learned: 510.733 | baseline: 686.230
+LOG: 11253/5
+[Learn]  s: 11253 | learned: 203.199 | baseline: 202.440
+LOG: 11254/5
+[Learn]  s: 11252 | learned: 552.386 | baseline: 681.409
+LOG: 11255/5
+[Learn]  s: 11254 | learned: 206.228 | baseline: 191.181
+LOG: 11256/5
+[Learn]  s: 11256 | learned: 37.707 | baseline: 37.707
+LOG: 11257/5
+[Learn]  s: 11257 | learned: 119.211 | baseline: 119.211
+LOG: 11258/5
+[Learn]  s: 11255 | learned: 379.659 | baseline: 381.639
+LOG: 11259/5
+[Learn]  s: 11258 | learned: 244.058 | baseline: 252.926
+LOG: 11260/5
+[Learn]  s: 11259 | learned: 197.986 | baseline: 199.371
+LOG: 11261/5
+[Learn]  s: 11261 | learned: 71.154 | baseline: 71.154
+LOG: 11262/5
+[Learn]  s: 11262 | learned: 415.981 | baseline: 388.290
+LOG: 11263/5
+[Learn]  s: 11240 | learned: 2316.180 | baseline: 2732.441
+LOG: 11264/5
+[Learn]  s: 11263 | learned: 296.288 | baseline: 409.021
+LOG: 11265/5
+[Learn]  s: 11260 | learned: 592.792 | baseline: 638.332
+LOG: 11266/5
+[Learn]  s: 11264 | learned: 274.085 | baseline: 271.003
+LOG: 11267/5
+[Learn]  s: 11266 | learned: 100.313 | baseline: 99.996
+LOG: 11268/5
+[Learn]  s: 11268 | learned: 132.102 | baseline: 132.217
+LOG: 11269/5
+[Learn]  s: 11265 | learned: 508.477 | baseline: 656.176
+LOG: 11270/5
+[Learn]  s: 11270 | learned: 70.814 | baseline: 70.814
+LOG: 11271/5
+[Learn]  s: 11245 | learned: 2499.588 | baseline: 1418.516
+LOG: 11272/5
+[Learn]  s: 11272 | learned: 272.031 | baseline: 238.398
+LOG: 11273/5
+[Learn]  s: 11269 | learned: 285.955 | baseline: 232.297
+LOG: 11274/5
+[Learn]  s: 11274 | learned: 180.446 | baseline: 180.537
+[Learn]  s: 11271 | learned: 258.108 | baseline: 268.596
+LOG: 11275/5
+LOG: 11276/5
+[Learn]  s: 11275 | learned: 405.576 | baseline: 387.393
+LOG: 11277/5
+[Learn]  s: 11277 | learned: 176.741 | baseline: 182.578
+LOG: 11278/5
+[Learn]  s: 11278 | learned: 700.439 | baseline: 409.045
+LOG: 11279/5
+[Learn]  s: 11273 | learned: 888.107 | baseline: 1182.363
+LOG: 11280/5
+[Learn]  s: 11280 | learned: 193.168 | baseline: 191.238
+LOG: 11281/5
+[Learn]  s: 11276 | learned: 782.872 | baseline: 1218.344
+LOG: 11282/5
+[Learn]  s: 11279 | learned: 180.019 | baseline: 265.596
+LOG: 11283/5
+[Learn]  s: 11282 | learned: 64.434 | baseline: 64.434
+LOG: 11284/5
+[Learn]  s: 11284 | learned: 78.444 | baseline: 78.439
+LOG: 11285/5
+[Learn]  s: 11283 | learned: 202.902 | baseline: 220.906
+LOG: 11286/5
+[Learn]  s: 11286 | learned: 162.641 | baseline: 112.537
+LOG: 11287/5
+[Learn]  s: 11285 | learned: 365.777 | baseline: 312.004
+LOG: 11288/5
+[Learn]  s: 11288 | learned: 112.767 | baseline: 119.582
+LOG: 11289/5
+[Learn]  s: 11281 | learned: 508.464 | baseline: 722.012
+[Learn]  s: 11267 | learned: 1719.676 | baseline: 1341.944
+LOG: 11290/5
+LOG: 11291/5
+[Learn]  s: 11287 | learned: 361.747 | baseline: 372.291
+LOG: 11292/5
+[Learn]  s: 11289 | learned: 147.058 | baseline: 146.896
+LOG: 11293/5
+[Learn]  s: 11290 | learned: 217.539 | baseline: 230.070
+LOG: 11294/5
+[Learn]  s: 11291 | learned: 204.376 | baseline: 355.100
+LOG: 11295/5
+[Learn]  s: 11293 | learned: 168.230 | baseline: 156.387
+LOG: 11296/5
+[Learn]  s: 11294 | learned: 506.768 | baseline: 492.990
+LOG: 11297/5
+[Learn]  s: 11292 | learned: 497.950 | baseline: 803.303
+LOG: 11298/5
+[Learn]  s: 11296 | learned: 665.954 | baseline: 666.175
+LOG: 11299/5
+[Learn]  s: 11299 | learned: 157.422 | baseline: 158.768
+LOG: 11300/5
+[Learn]  s: 11297 | learned: 521.687 | baseline: 536.000
+LOG: 11301/5
+[Learn]  s: 11301 | learned: 125.297 | baseline: 125.297
+LOG: 11302/5
+[Learn]  s: 11302 | learned: 267.070 | baseline: 223.862
+LOG: 11303/5
+[Learn]  s: 11298 | learned: 451.742 | baseline: 1679.585
+LOG: 11304/5
+[Learn]  s: 11300 | learned: 407.933 | baseline: 428.336
+LOG: 11305/5
+[Learn]  s: 11305 | learned: 134.281 | baseline: 134.317
+LOG: 11306/5
+[Learn]  s: 11303 | learned: 534.245 | baseline: 731.615
+LOG: 11307/5
+[Learn]  s: 11306 | learned: 249.232 | baseline: 384.002
+LOG: 11308/5
+[Learn]  s: 11308 | learned: 208.909 | baseline: 300.491
+LOG: 11309/5
+[Learn]  s: 11307 | learned: 464.395 | baseline: 492.906
+LOG: 11310/5
+[Learn]  s: 11309 | learned: 45.760 | baseline: 45.789
+LOG: 11311/5
+[Learn]  s: 11311 | learned: 180.039 | baseline: 180.050
+LOG: 11312/5
+[Learn]  s: 11312 | learned: 67.778 | baseline: 67.875
+LOG: 11313/5
+[Learn]  s: 11313 | learned: 4.864 | baseline: 4.864
+LOG: 11314/5
+[Learn]  s: 11310 | learned: 363.458 | baseline: 557.215
+LOG: 11315/5
+[Learn]  s: 11304 | learned: 2586.905 | baseline: 931.829
+LOG: 11316/5
+[Learn]  s: 11314 | learned: 1054.750 | baseline: 1193.646
+LOG: 11317/5
+[Learn]  s: 11316 | learned: 77.285 | baseline: 138.723
+LOG: 11318/5
+[Learn]  s: 11317 | learned: 531.166 | baseline: 649.779
+LOG: 11319/5
+[Learn]  s: 11319 | learned: 487.863 | baseline: 584.955
+LOG: 11320/5
+[Learn]  s: 11318 | learned: 914.229 | baseline: 1153.753
+LOG: 11321/5
+[Learn]  s: 11295 | learned: 2224.011 | baseline: 2741.063
+LOG: 11322/5
+[Learn]  s: 11320 | learned: 319.812 | baseline: 301.188
+LOG: 11323/5
+[Learn]  s: 11323 | learned: 122.219 | baseline: 122.205
+LOG: 11324/5
+[Learn]  s: 11322 | learned: 449.436 | baseline: 441.889
+LOG: 11325/5
+[Learn]  s: 11325 | learned: 323.294 | baseline: 522.781
+LOG: 11326/5
+[Learn]  s: 11324 | learned: 582.356 | baseline: 603.880
+LOG: 11327/5
+[Learn]  s: 11315 | learned: 3007.738 | baseline: 2193.551
+LOG: 11328/5
+[Learn]  s: 11321 | learned: 976.690 | baseline: 972.059
+LOG: 11329/5
+[Learn]  s: 11329 | learned: 244.783 | baseline: 349.536
+LOG: 11330/5
+[Learn]  s: 11330 | learned: 53.210 | baseline: 53.210
+LOG: 11331/5
+[Learn]  s: 11327 | learned: 588.925 | baseline: 888.272
+LOG: 11332/5
+[Learn]  s: 11326 | learned: 638.428 | baseline: 847.265
+LOG: 11333/5
+[Learn]  s: 11328 | learned: 470.692 | baseline: 467.303
+[Learn]  s: 11331 | learned: 157.248 | baseline: 115.277
+LOG: 11334/5
+LOG: 11335/5
+[Learn]  s: 11334 | learned: 53.093 | baseline: 53.093
+LOG: 11336/5
+[Learn]  s: 11333 | learned: 258.459 | baseline: 262.093
+LOG: 11337/5
+[Learn]  s: 11335 | learned: 230.266 | baseline: 258.193
+LOG: 11338/5
+[Learn]  s: 11338 | learned: 93.435 | baseline: 93.435
+LOG: 11339/5
+[Learn] [ERR] s: 11337 | learned: 253.284 | baseline: 313.394
+LOG: 11340/5
+[Learn]  s: 11332 | learned: 493.803 | baseline: 525.758
+LOG: 11341/5
+[Learn]  s: 11340 | learned: 242.402 | baseline: 171.032
+LOG: 11342/5
+[Learn]  s: 11341 | learned: 326.966 | baseline: 302.283
+LOG: 11343/5
+[Learn]  s: 11343 | learned: 166.863 | baseline: 166.012
+LOG: 11344/5
+[Learn]  s: 11339 | learned: 633.057 | baseline: 563.418
+LOG: 11345/5
+[Learn]  s: 11342 | learned: 328.326 | baseline: 374.560
+LOG: 11346/5
+[Learn]  s: 11346 | learned: 137.313 | baseline: 137.337
+[Learn]  s: 11345 | learned: 123.341 | baseline: 123.282
+LOG: 11347/5
+LOG: 11348/5
+[Learn]  s: 11347 | learned: 104.236 | baseline: 104.173
+LOG: 11349/5
+[Learn]  s: 11349 | learned: 420.202 | baseline: 407.361
+LOG: 11350/5
+[Learn]  s: 11344 | learned: 508.175 | baseline: 508.062
+LOG: 11351/5
+[Learn]  s: 11350 | learned: 243.221 | baseline: 257.729
+LOG: 11352/5
+[Learn]  s: 11348 | learned: 458.903 | baseline: 610.347
+LOG: 11353/5
+[Learn]  s: 11352 | learned: 586.373 | baseline: 576.146
+LOG: 11354/5
+[Learn]  s: 11354 | learned: 0.000 | baseline: 0.000
+LOG: 11355/5
+[Learn]  s: 11355 | learned: 209.713 | baseline: 209.808
+LOG: 11356/5
+[Learn]  s: 11356 | learned: 297.637 | baseline: 503.271
+LOG: 11357/5
+[Learn]  s: 11353 | learned: 667.608 | baseline: 903.419
+LOG: 11358/5
+[Learn]  s: 11351 | learned: 749.726 | baseline: 1405.161
+LOG: 11359/5
+[Learn]  s: 11358 | learned: 210.160 | baseline: 213.186
+LOG: 11360/5
+[Learn]  s: 11357 | learned: 477.082 | baseline: 882.167
+LOG: 11361/5
+[Learn]  s: 11360 | learned: 194.788 | baseline: 227.798
+LOG: 11362/5
+[Learn]  s: 11359 | learned: 261.689 | baseline: 198.401
+LOG: 11363/5
+[Learn]  s: 11361 | learned: 196.132 | baseline: 231.230
+LOG: 11364/5
+[Learn]  s: 11363 | learned: 76.970 | baseline: 77.019
+LOG: 11365/5
+[Learn]  s: 11362 | learned: 170.534 | baseline: 186.470
+LOG: 11366/5
+[Learn]  s: 11365 | learned: 148.731 | baseline: 148.597
+LOG: 11367/5
+[Learn]  s: 11364 | learned: 267.100 | baseline: 269.424
+LOG: 11368/5
+[Learn]  s: 11367 | learned: 505.534 | baseline: 225.622
+LOG: 11369/5
+[Learn]  s: 11369 | learned: 132.701 | baseline: 132.679
+LOG: 11370/5
+[Learn]  s: 11366 | learned: 585.899 | baseline: 540.528
+[Learn]  s: 11370 | learned: 108.900 | baseline: 108.900
+LOG: 11371/5
+LOG: 11372/5
+[Learn]  s: 11368 | learned: 430.412 | baseline: 419.408
+LOG: 11373/5
+[Learn]  s: 11372 | learned: 377.708 | baseline: 282.441
+LOG: 11374/5
+[Learn]  s: 11374 | learned: 135.715 | baseline: 133.959
+LOG: 11375/5
+[Learn]  s: 11336 | learned: 3428.975 | baseline: 2316.487
+LOG: 11376/5
+[Learn]  s: 11376 | learned: 57.366 | baseline: 49.692
+LOG: 11377/5
+[Learn]  s: 11371 | learned: 596.847 | baseline: 738.048
+LOG: 11378/5
+[Learn]  s: 11375 | learned: 44.542 | baseline: 44.542
+LOG: 11379/5
+[Learn]  s: 11377 | learned: 463.741 | baseline: 697.981
+LOG: 11380/5
+[Learn]  s: 11373 | learned: 630.069 | baseline: 747.620
+LOG: 11381/5
+[Learn]  s: 11380 | learned: 281.811 | baseline: 452.864
+LOG: 11382/5
+[Learn]  s: 11381 | learned: 203.004 | baseline: 201.477
+LOG: 11383/5
+[Learn]  s: 11382 | learned: 140.203 | baseline: 138.405
+LOG: 11384/5
+[Learn]  s: 11383 | learned: 323.997 | baseline: 336.085
+LOG: 11385/5
+[Learn]  s: 11378 | learned: 733.619 | baseline: 875.134
+LOG: 11386/5
+[Learn]  s: 11384 | learned: 429.070 | baseline: 416.001
+LOG: 11387/5
+[Learn]  s: 11387 | learned: 77.674 | baseline: 68.930
+LOG: 11388/5
+[Learn]  s: 11388 | learned: 132.554 | baseline: 136.069
+LOG: 11389/5
+[Learn]  s: 11386 | learned: 338.277 | baseline: 187.962
+LOG: 11390/5
+[Learn]  s: 11390 | learned: 471.534 | baseline: 532.402
+LOG: 11391/5
+[Learn]  s: 11389 | learned: 339.262 | baseline: 330.699
+LOG: 11392/5
+[Learn]  s: 11385 | learned: 1130.102 | baseline: 902.538
+LOG: 11393/5
+[Learn]  s: 11391 | learned: 288.260 | baseline: 383.873
+[Learn]  s: 11379 | learned: 1304.296 | baseline: 1644.674
+LOG: 11394/5
+LOG: 11395/5
+[Learn]  s: 11394 | learned: 216.924 | baseline: 218.281
+LOG: 11396/5
+[Learn]  s: 11392 | learned: 388.223 | baseline: 602.411
+LOG: 11397/5
+[Learn]  s: 11393 | learned: 565.074 | baseline: 448.266
+LOG: 11398/5
+[Learn]  s: 11396 | learned: 113.378 | baseline: 113.378
+LOG: 11399/5
+[Learn]  s: 11398 | learned: 234.529 | baseline: 230.993
+LOG: 11400/5
+[Learn]  s: 11395 | learned: 365.004 | baseline: 436.362
+LOG: 11401/5
+[Learn]  s: 11400 | learned: 176.193 | baseline: 179.557
+LOG: 11402/5
+[Learn]  s: 11402 | learned: 72.507 | baseline: 72.507
+LOG: 11403/5
+[Learn]  s: 11397 | learned: 365.367 | baseline: 387.756
+LOG: 11404/5
+[Learn]  s: 11401 | learned: 343.441 | baseline: 370.253
+LOG: 11405/5
+[Learn]  s: 11403 | learned: 225.521 | baseline: 299.403
+LOG: 11406/5
+[Learn]  s: 11404 | learned: 651.663 | baseline: 809.280
+LOG: 11407/5
+[Learn]  s: 11406 | learned: 362.431 | baseline: 395.599
+LOG: 11408/5
+[Learn]  s: 11407 | learned: 79.736 | baseline: 79.736
+LOG: 11409/5
+[Learn]  s: 11408 | learned: 361.553 | baseline: 234.710
+LOG: 11410/5
+[Learn]  s: 11405 | learned: 1417.068 | baseline: 1362.554
+LOG: 11411/5
+[Learn]  s: 11411 | learned: 105.113 | baseline: 105.113
+LOG: 11412/5
+[Learn]  s: 11410 | learned: 753.836 | baseline: 674.942
+LOG: 11413/5
+[Learn]  s: 11413 | learned: 128.808 | baseline: 130.478
+LOG: 11414/5
+[Learn]  s: 11399 | learned: 1533.033 | baseline: 1696.955
+LOG: 11415/5
+[Learn]  s: 11414 | learned: 123.665 | baseline: 145.734
+LOG: 11416/5
+[Learn]  s: 11416 | learned: 165.917 | baseline: 165.866
+LOG: 11417/5
+[Learn]  s: 11417 | learned: 312.790 | baseline: 292.401
+LOG: 11418/5
+[Learn]  s: 11415 | learned: 807.197 | baseline: 1094.565
+LOG: 11419/5
+[Learn]  s: 11418 | learned: 267.520 | baseline: 188.924
+LOG: 11420/5
+[Learn]  s: 11419 | learned: 292.440 | baseline: 321.032
+LOG: 11421/5
+[Learn]  s: 11420 | learned: 291.787 | baseline: 274.212
+LOG: 11422/5
+[Learn]  s: 11421 | learned: 236.422 | baseline: 380.148
+LOG: 11423/5
+[Learn]  s: 11422 | learned: 314.926 | baseline: 208.907
+LOG: 11424/5
+[Learn]  s: 11423 | learned: 218.703 | baseline: 218.585
+LOG: 11425/5
+[Learn]  s: 11424 | learned: 101.676 | baseline: 103.344
+LOG: 11426/5
+[Learn]  s: 11426 | learned: 141.616 | baseline: 143.278
+LOG: 11427/5
+[Learn]  s: 11409 | learned: 1969.199 | baseline: 2039.374
+LOG: 11428/5
+[Learn]  s: 11425 | learned: 224.863 | baseline: 305.464
+LOG: 11429/5
+[Learn]  s: 11427 | learned: 329.515 | baseline: 566.763
+LOG: 11430/5
+[Learn]  s: 11428 | learned: 347.742 | baseline: 455.623
+LOG: 11431/5
+[Learn]  s: 11430 | learned: 675.345 | baseline: 286.989
+LOG: 11432/5
+[Learn]  s: 11432 | learned: 60.542 | baseline: 60.542
+LOG: 11433/5
+[Learn]  s: 11412 | learned: 2084.845 | baseline: 2096.312
+LOG: 11434/5
+[Learn]  s: 11433 | learned: 166.692 | baseline: 210.836
+LOG: 11435/5
+[Learn]  s: 11429 | learned: 701.236 | baseline: 949.346
+LOG: 11436/5
+[Learn]  s: 11431 | learned: 788.148 | baseline: 926.079
+LOG: 11437/5
+[Learn]  s: 11434 | learned: 691.001 | baseline: 655.736
+LOG: 11438/5
+[Learn]  s: 11436 | learned: 216.756 | baseline: 553.887
+LOG: 11439/5
+[Learn]  s: 11439 | learned: 65.762 | baseline: 65.762
+LOG: 11440/5
+[Learn]  s: 11437 | learned: 526.624 | baseline: 736.068
+LOG: 11441/5
+[Learn]  s: 11435 | learned: 515.210 | baseline: 406.089
+LOG: 11442/5
+[Learn]  s: 11442 | learned: 17.352 | baseline: 17.352
+LOG: 11443/5
+[Learn]  s: 11438 | learned: 437.843 | baseline: 540.282
+LOG: 11444/5
+[Learn]  s: 11443 | learned: 216.011 | baseline: 269.739
+LOG: 11445/5
+[Learn]  s: 11440 | learned: 312.604 | baseline: 331.346
+LOG: 11446/5
+[Learn]  s: 11444 | learned: 107.717 | baseline: 107.727
+LOG: 11447/5
+[Learn]  s: 11446 | learned: 156.846 | baseline: 170.484
+LOG: 11448/5
+[Learn]  s: 11445 | learned: 296.566 | baseline: 539.186
+LOG: 11449/5
+[Learn]  s: 11447 | learned: 390.160 | baseline: 549.771
+LOG: 11450/5
+[Learn]  s: 11450 | learned: 112.487 | baseline: 114.068
+LOG: 11451/5
+[Learn]  s: 11451 | learned: 48.273 | baseline: 48.273
+LOG: 11452/5
+[Learn]  s: 11448 | learned: 494.551 | baseline: 489.183
+LOG: 11453/5
+[Learn]  s: 11449 | learned: 344.212 | baseline: 227.119
+LOG: 11454/5
+[Learn]  s: 11453 | learned: 232.410 | baseline: 233.925
+LOG: 11455/5
+[Learn]  s: 11455 | learned: 38.502 | baseline: 38.502
+LOG: 11456/5
+[Learn]  s: 11452 | learned: 350.015 | baseline: 346.334
+[Learn]  s: 11454 | learned: 108.724 | baseline: 134.114
+LOG: 11457/5
+LOG: 11458/5
+[Learn]  s: 11457 | learned: 149.262 | baseline: 152.695
+LOG: 11459/5
+[Learn]  s: 11458 | learned: 339.428 | baseline: 322.963
+LOG: 11460/5
+[Learn]  s: 11456 | learned: 302.536 | baseline: 424.224
+LOG: 11461/5
+[Learn]  s: 11441 | learned: 986.309 | baseline: 1056.615
+LOG: 11462/5
+[Learn]  s: 11460 | learned: 210.675 | baseline: 210.675
+LOG: 11463/5
+[Learn]  s: 11461 | learned: 250.162 | baseline: 259.653
+LOG: 11464/5
+[Learn]  s: 11462 | learned: 407.446 | baseline: 236.110
+LOG: 11465/5
+[Learn]  s: 11464 | learned: 756.808 | baseline: 837.385
+LOG: 11466/5
+[Learn]  s: 11465 | learned: 310.563 | baseline: 459.912
+LOG: 11467/5
+[Learn]  s: 11466 | learned: 173.905 | baseline: 199.367
+LOG: 11468/5
+[Learn]  s: 11459 | learned: 661.213 | baseline: 1087.365
+LOG: 11469/5
+[Learn]  s: 11467 | learned: 500.966 | baseline: 511.327
+LOG: 11470/5
+[Learn]  s: 11469 | learned: 123.639 | baseline: 123.639
+LOG: 11471/5
+[Learn]  s: 11470 | learned: 143.812 | baseline: 159.150
+LOG: 11472/5
+[Learn]  s: 11471 | learned: 205.850 | baseline: 221.772
+LOG: 11473/5
+[Learn]  s: 11472 | learned: 114.898 | baseline: 114.788
+LOG: 11474/5
+[Learn]  s: 11468 | learned: 726.250 | baseline: 1074.523
+LOG: 11475/5
+[Learn]  s: 11474 | learned: 642.998 | baseline: 501.622
+LOG: 11476/5
+[Learn]  s: 11475 | learned: 111.014 | baseline: 111.014
+LOG: 11477/5
+[Learn]  s: 11473 | learned: 609.411 | baseline: 862.399
+LOG: 11478/5
+[Learn]  s: 11477 | learned: 123.082 | baseline: 122.932
+LOG: 11479/5
+[Learn]  s: 11476 | learned: 161.467 | baseline: 164.285
+LOG: 11480/5
+[Learn]  s: 11478 | learned: 128.264 | baseline: 146.467
+LOG: 11481/5
+[Learn]  s: 11481 | learned: 359.093 | baseline: 289.325
+LOG: 11482/5
+[Learn]  s: 11480 | learned: 329.907 | baseline: 503.914
+LOG: 11483/5
+[Learn]  s: 11479 | learned: 431.732 | baseline: 593.319
+LOG: 11484/5
+[Learn]  s: 11463 | learned: 1069.830 | baseline: 2339.220
+LOG: 11485/5
+[Learn]  s: 11482 | learned: 392.928 | baseline: 570.666
+LOG: 11486/5
+[Learn]  s: 11484 | learned: 289.048 | baseline: 405.876
+LOG: 11487/5
+[Learn]  s: 11487 | learned: 207.736 | baseline: 280.038
+LOG: 11488/5
+[Learn]  s: 11488 | learned: 140.493 | baseline: 144.279
+LOG: 11489/5
+[Learn]  s: 11483 | learned: 515.596 | baseline: 527.450
+LOG: 11490/5
+[Learn]  s: 11489 | learned: 232.717 | baseline: 232.687
+LOG: 11491/5
+[Learn]  s: 11486 | learned: 494.928 | baseline: 516.049
+LOG: 11492/5
+[Learn]  s: 11490 | learned: 459.502 | baseline: 469.928
+LOG: 11493/5
+[Learn]  s: 11492 | learned: 189.857 | baseline: 196.869
+LOG: 11494/5
+[Learn]  s: 11493 | learned: 244.193 | baseline: 241.692
+LOG: 11495/5
+[Learn]  s: 11495 | learned: 280.271 | baseline: 290.086
+LOG: 11496/5
+[Learn]  s: 11496 | learned: 174.222 | baseline: 174.222
+LOG: 11497/5
+[Learn]  s: 11497 | learned: 326.122 | baseline: 356.092
+LOG: 11498/5
+[Learn]  s: 11491 | learned: 884.206 | baseline: 874.295
+LOG: 11499/5
+[Learn]  s: 11499 | learned: 171.372 | baseline: 217.750
+LOG: 11500/5
+[Learn]  s: 11485 | learned: 1353.416 | baseline: 1605.281
+LOG: 11501/5
+[Learn]  s: 11500 | learned: 168.906 | baseline: 169.901
+LOG: 11502/5
+[Learn]  s: 11494 | learned: 995.277 | baseline: 1016.052
+LOG: 11503/5
+[Learn]  s: 11501 | learned: 306.550 | baseline: 376.182
+LOG: 11504/5
+[Learn]  s: 11502 | learned: 407.545 | baseline: 465.854
+LOG: 11505/5
+[Learn]  s: 11505 | learned: 245.167 | baseline: 328.435
+[Learn]  s: 11503 | learned: 323.586 | baseline: 403.763
+LOG: 11506/5
+LOG: 11507/5
+[Learn]  s: 11504 | learned: 351.448 | baseline: 370.570
+LOG: 11508/5
+[Learn]  s: 11506 | learned: 155.694 | baseline: 155.694
+LOG: 11509/5
+[Learn]  s: 11498 | learned: 1506.234 | baseline: 1643.481
+LOG: 11510/5
+[Learn]  s: 11510 | learned: 88.952 | baseline: 88.952
+LOG: 11511/5
+[Learn]  s: 11511 | learned: 76.466 | baseline: 83.596
+LOG: 11512/5
+[Learn]  s: 11509 | learned: 296.454 | baseline: 373.504
+LOG: 11513/5
+[Learn]  s: 11512 | learned: 77.634 | baseline: 77.661
+LOG: 11514/5
+[Learn]  s: 11508 | learned: 596.229 | baseline: 625.754
+LOG: 11515/5
+[Learn]  s: 11507 | learned: 769.161 | baseline: 764.477
+LOG: 11516/5
+[Learn]  s: 11513 | learned: 503.898 | baseline: 672.583
+LOG: 11517/5
+[Learn]  s: 11515 | learned: 356.296 | baseline: 363.578
+LOG: 11518/5
+[Learn]  s: 11518 | learned: 133.849 | baseline: 152.088
+LOG: 11519/5
+[Learn]  s: 11519 | learned: 85.531 | baseline: 85.531
+LOG: 11520/5
+[Learn]  s: 11516 | learned: 410.862 | baseline: 456.709
+LOG: 11521/5
+[Learn]  s: 11521 | learned: 344.755 | baseline: 343.144
+LOG: 11522/5
+[Learn]  s: 11522 | learned: 72.976 | baseline: 72.971
+LOG: 11523/5
+[Learn]  s: 11520 | learned: 513.765 | baseline: 431.501
+LOG: 11524/5
+[Learn]  s: 11524 | learned: 104.824 | baseline: 104.838
+LOG: 11525/5
+[Learn]  s: 11525 | learned: 80.645 | baseline: 80.645
+LOG: 11526/5
+[Learn]  s: 11517 | learned: 950.344 | baseline: 990.429
+LOG: 11527/5
+[Learn]  s: 11523 | learned: 493.853 | baseline: 742.923
+LOG: 11528/5
+[Learn]  s: 11527 | learned: 282.700 | baseline: 284.142
+LOG: 11529/5
+[Learn]  s: 11526 | learned: 524.500 | baseline: 524.777
+LOG: 11530/5
+[Learn]  s: 11529 | learned: 410.247 | baseline: 419.847
+LOG: 11531/5
+[Learn]  s: 11528 | learned: 737.944 | baseline: 825.712
+LOG: 11532/5
+[Learn]  s: 11514 | learned: 1484.231 | baseline: 1735.219
+[Learn]  s: 11532 | learned: 73.270 | baseline: 73.210
+LOG: 11533/5
+LOG: 11534/5
+[Learn]  s: 11534 | learned: 78.401 | baseline: 77.682
+LOG: 11535/5
+[Learn]  s: 11533 | learned: 141.413 | baseline: 141.047
+LOG: 11536/5
+[Learn]  s: 11535 | learned: 152.142 | baseline: 152.241
+LOG: 11537/5
+[Learn]  s: 11531 | learned: 475.133 | baseline: 521.877
+LOG: 11538/5
+[Learn]  s: 11537 | learned: 331.435 | baseline: 334.914
+LOG: 11539/5
+[Learn]  s: 11539 | learned: 96.656 | baseline: 94.939
+LOG: 11540/5
+[Learn]  s: 11540 | learned: 22.802 | baseline: 22.802
+LOG: 11541/5
+[Learn]  s: 11536 | learned: 479.796 | baseline: 600.370
+LOG: 11542/5
+[Learn]  s: 11538 | learned: 451.542 | baseline: 753.451
+LOG: 11543/5
+[Learn]  s: 11542 | learned: 344.749 | baseline: 344.407
+LOG: 11544/5
+[Learn]  s: 11543 | learned: 13.492 | baseline: 13.492
+LOG: 11545/5
+[Learn]  s: 11544 | learned: 163.407 | baseline: 291.884
+LOG: 11546/5
+[Learn]  s: 11545 | learned: 139.982 | baseline: 143.694
+LOG: 11547/5
+[Learn]  s: 11546 | learned: 333.987 | baseline: 230.071
+LOG: 11548/5
+[Learn]  s: 11530 | learned: 1477.409 | baseline: 1568.808
+LOG: 11549/5
+[Learn]  s: 11549 | learned: 190.838 | baseline: 206.368
+LOG: 11550/5
+[Learn]  s: 11550 | learned: 78.381 | baseline: 76.493
+LOG: 11551/5
+[Learn]  s: 11547 | learned: 679.501 | baseline: 663.470
+LOG: 11552/5
+[Learn]  s: 11551 | learned: 124.632 | baseline: 122.799
+LOG: 11553/5
+[Learn]  s: 11553 | learned: 148.381 | baseline: 148.436
+LOG: 11554/5
+[Learn]  s: 11552 | learned: 419.296 | baseline: 531.126
+LOG: 11555/5
+[Learn]  s: 11555 | learned: 451.567 | baseline: 471.482
+LOG: 11556/5
+[Learn]  s: 11556 | learned: 613.728 | baseline: 608.422
+LOG: 11557/5
+[Learn]  s: 11557 | learned: 424.939 | baseline: 415.079
+LOG: 11558/5
+[Learn]  s: 11541 | learned: 2396.656 | baseline: 2364.611
+LOG: 11559/5
+[Learn]  s: 11558 | learned: 366.015 | baseline: 393.307
+LOG: 11560/5
+[Learn]  s: 11559 | learned: 263.117 | baseline: 270.665
+LOG: 11561/5
+[Learn]  s: 11560 | learned: 177.419 | baseline: 204.995
+LOG: 11562/5
+[Learn]  s: 11548 | learned: 1175.883 | baseline: 2824.015
+LOG: 11563/5
+[Learn]  s: 11561 | learned: 250.304 | baseline: 278.675
+LOG: 11564/5
+[Learn]  s: 11562 | learned: 64.546 | baseline: 64.668
+LOG: 11565/5
+[Learn]  s: 11565 | learned: 474.177 | baseline: 722.506
+LOG: 11566/5
+[Learn]  s: 11563 | learned: 572.245 | baseline: 566.059
+LOG: 11567/5
+[Learn]  s: 11564 | learned: 731.650 | baseline: 881.719
+LOG: 11568/5
+[Learn]  s: 11554 | learned: 2338.690 | baseline: 2263.447
+LOG: 11569/5
+[Learn]  s: 11567 | learned: 272.541 | baseline: 298.327
+LOG: 11570/5
+[Learn]  s: 11566 | learned: 590.795 | baseline: 723.141
+LOG: 11571/5
+[Learn]  s: 11571 | learned: 386.899 | baseline: 469.598
+LOG: 11572/5
+[Learn]  s: 11569 | learned: 405.021 | baseline: 375.113
+LOG: 11573/5
+[Learn]  s: 11573 | learned: 82.327 | baseline: 82.102
+LOG: 11574/5
+[Learn]  s: 11572 | learned: 293.118 | baseline: 398.842
+LOG: 11575/5
+[Learn]  s: 11570 | learned: 700.060 | baseline: 1160.825
+LOG: 11576/5
+[Learn]  s: 11575 | learned: 57.128 | baseline: 57.128
+LOG: 11577/5
+[Learn]  s: 11574 | learned: 471.253 | baseline: 603.839
+LOG: 11578/5
+[Learn]  s: 11577 | learned: 332.195 | baseline: 270.829
+LOG: 11579/5
+[Learn]  s: 11578 | learned: 308.000 | baseline: 364.199
+LOG: 11580/5
+[Learn]  s: 11579 | learned: 244.622 | baseline: 234.414
+LOG: 11581/5
+[Learn]  s: 11580 | learned: 164.568 | baseline: 159.585
+LOG: 11582/5
+[Learn]  s: 11581 | learned: 338.164 | baseline: 350.032
+LOG: 11583/5
+[Learn]  s: 11582 | learned: 933.745 | baseline: 921.566
+LOG: 11584/5
+[Learn]  s: 11568 | learned: 1392.192 | baseline: 2345.749
+LOG: 11585/5
+[Learn]  s: 11576 | learned: 2124.768 | baseline: 1442.164
+LOG: 11586/5
+[Learn]  s: 11584 | learned: 387.013 | baseline: 463.066
+LOG: 11587/5
+[Learn]  s: 11585 | learned: 472.825 | baseline: 730.806
+LOG: 11588/5
+[Learn]  s: 11586 | learned: 279.016 | baseline: 310.959
+LOG: 11589/5
+[Learn]  s: 11589 | learned: 250.478 | baseline: 289.376
+LOG: 11590/5
+[Learn]  s: 11587 | learned: 425.185 | baseline: 487.528
+LOG: 11591/5
+[Learn]  s: 11588 | learned: 666.162 | baseline: 733.551
+LOG: 11592/5
+[Learn]  s: 11583 | learned: 1300.890 | baseline: 1444.106
+LOG: 11593/5
+[Learn]  s: 11593 | learned: 193.547 | baseline: 193.602
+LOG: 11594/5
+[Learn]  s: 11592 | learned: 496.252 | baseline: 485.979
+LOG: 11595/5
+[Learn]  s: 11595 | learned: 313.753 | baseline: 422.036
+LOG: 11596/5
+[Learn]  s: 11596 | learned: 260.516 | baseline: 260.311
+LOG: 11597/5
+[Learn]  s: 11597 | learned: 229.219 | baseline: 300.848
+LOG: 11598/5
+[Learn]  s: 11598 | learned: 325.161 | baseline: 512.790
+LOG: 11599/5
+[Learn]  s: 11590 | learned: 1353.970 | baseline: 1431.024
+LOG: 11600/5
+[Learn]  s: 11600 | learned: 41.189 | baseline: 41.189
+LOG: 11601/5
+[Learn]  s: 11599 | learned: 261.533 | baseline: 378.164
+LOG: 11602/5
+[Learn]  s: 11594 | learned: 1146.074 | baseline: 1274.390
+LOG: 11603/5
+[Learn]  s: 11603 | learned: 272.898 | baseline: 294.221
+LOG: 11604/5
+[Learn]  s: 11604 | learned: 92.647 | baseline: 86.742
+LOG: 11605/5
+[Learn]  s: 11601 | learned: 235.809 | baseline: 515.232
+LOG: 11606/5
+[Learn]  s: 11606 | learned: 231.657 | baseline: 231.496
+LOG: 11607/5
+[Learn]  s: 11605 | learned: 263.678 | baseline: 323.788
+LOG: 11608/5
+[Learn]  s: 11608 | learned: 372.611 | baseline: 450.240
+LOG: 11609/5
+[Learn]  s: 11602 | learned: 778.942 | baseline: 902.183
+LOG: 11610/5
+[Learn]  s: 11609 | learned: 317.123 | baseline: 344.778
+LOG: 11611/5
+[Learn]  s: 11607 | learned: 512.478 | baseline: 513.928
+LOG: 11612/5
+[Learn]  s: 11610 | learned: 792.882 | baseline: 685.192
+LOG: 11613/5
+[Learn]  s: 11613 | learned: 36.689 | baseline: 36.689
+LOG: 11614/5
+[Learn]  s: 11611 | learned: 649.406 | baseline: 904.896
+LOG: 11615/5
+[Learn]  s: 11591 | learned: 3375.214 | baseline: 2041.470
+LOG: 11616/5
+[Learn]  s: 11615 | learned: 438.108 | baseline: 361.105
+LOG: 11617/5
+[Learn]  s: 11612 | learned: 894.959 | baseline: 990.932
+LOG: 11618/5
+[Learn]  s: 11617 | learned: 68.132 | baseline: 68.132
+LOG: 11619/5
+[Learn]  s: 11616 | learned: 241.973 | baseline: 311.492
+LOG: 11620/5
+[Learn]  s: 11619 | learned: 138.309 | baseline: 138.309
+LOG: 11621/5
+[Learn]  s: 11621 | learned: 50.045 | baseline: 50.045
+LOG: 11622/5
+[Learn]  s: 11618 | learned: 434.909 | baseline: 337.219
+LOG: 11623/5
+[Learn]  s: 11620 | learned: 285.077 | baseline: 285.025
+LOG: 11624/5
+[Learn]  s: 11622 | learned: 203.061 | baseline: 203.058
+LOG: 11625/5
+[Learn]  s: 11624 | learned: 255.824 | baseline: 261.848
+LOG: 11626/5
+[Learn]  s: 11626 | learned: 421.212 | baseline: 533.684
+LOG: 11627/5
+[Learn]  s: 11625 | learned: 533.017 | baseline: 565.760
+LOG: 11628/5
+[Learn]  s: 11628 | learned: 181.048 | baseline: 181.039
+LOG: 11629/5
+[Learn]  s: 11623 | learned: 838.466 | baseline: 943.919
+LOG: 11630/5
+[Learn]  s: 11630 | learned: 121.775 | baseline: 121.850
+LOG: 11631/5
+[Learn]  s: 11629 | learned: 359.299 | baseline: 508.356
+LOG: 11632/5
+[Learn]  s: 11631 | learned: 209.767 | baseline: 256.523
+LOG: 11633/5
+[Learn]  s: 11632 | learned: 308.135 | baseline: 309.627
+LOG: 11634/5
+[Learn]  s: 11633 | learned: 209.743 | baseline: 462.548
+LOG: 11635/5
+[Learn]  s: 11635 | learned: 36.998 | baseline: 36.998
+LOG: 11636/5
+[Learn]  s: 11634 | learned: 227.523 | baseline: 273.598
+LOG: 11637/5
+[Learn]  s: 11636 | learned: 495.456 | baseline: 419.627
+LOG: 11638/5
+[Learn]  s: 11637 | learned: 253.953 | baseline: 253.962
+LOG: 11639/5
+[Learn]  s: 11627 | learned: 1269.564 | baseline: 1288.198
+LOG: 11640/5
+[Learn]  s: 11614 | learned: 1958.159 | baseline: 1268.784
+LOG: 11641/5
+[Learn]  s: 11641 | learned: 400.611 | baseline: 270.182
+LOG: 11642/5
+[Learn]  s: 11639 | learned: 807.974 | baseline: 1102.187
+LOG: 11643/5
+[Learn]  s: 11643 | learned: 70.102 | baseline: 70.102
+LOG: 11644/5
+[Learn]  s: 11640 | learned: 326.406 | baseline: 766.761
+LOG: 11645/5
+[Learn]  s: 11645 | learned: 131.715 | baseline: 131.715
+LOG: 11646/5
+[Learn]  s: 11638 | learned: 859.842 | baseline: 885.163
+LOG: 11647/5
+[Learn]  s: 11642 | learned: 467.563 | baseline: 287.600
+LOG: 11648/5
+[Learn]  s: 11646 | learned: 275.760 | baseline: 326.017
+LOG: 11649/5
+[Learn]  s: 11647 | learned: 169.303 | baseline: 112.979
+LOG: 11650/5
+[Learn]  s: 11644 | learned: 360.492 | baseline: 547.837
+LOG: 11651/5
+[Learn]  s: 11648 | learned: 335.675 | baseline: 440.683
+LOG: 11652/5
+[Learn]  s: 11651 | learned: 286.280 | baseline: 257.713
+LOG: 11653/5
+[Learn]  s: 11650 | learned: 486.388 | baseline: 449.958
+LOG: 11654/5
+[Learn]  s: 11653 | learned: 81.498 | baseline: 84.025
+LOG: 11655/5
+[Learn]  s: 11652 | learned: 201.591 | baseline: 262.848
+LOG: 11656/5
+[Learn]  s: 11654 | learned: 364.332 | baseline: 360.845
+LOG: 11657/5
+[Learn]  s: 11655 | learned: 269.371 | baseline: 289.175
+LOG: 11658/5
+[Learn]  s: 11656 | learned: 413.846 | baseline: 496.248
+LOG: 11659/5
+[Learn]  s: 11657 | learned: 324.679 | baseline: 475.136
+LOG: 11660/5
+[Learn]  s: 11658 | learned: 511.711 | baseline: 478.263
+LOG: 11661/5
+[Learn]  s: 11659 | learned: 326.600 | baseline: 368.566
+LOG: 11662/5
+[Learn]  s: 11660 | learned: 594.756 | baseline: 863.130
+LOG: 11663/5
+[Learn]  s: 11661 | learned: 189.331 | baseline: 161.950
+LOG: 11664/5
+[Learn]  s: 11663 | learned: 154.247 | baseline: 154.186
+LOG: 11665/5
+[Learn]  s: 11662 | learned: 237.697 | baseline: 229.524
+LOG: 11666/5
+[Learn]  s: 11664 | learned: 182.078 | baseline: 182.101
+LOG: 11667/5
+[Learn]  s: 11667 | learned: 726.851 | baseline: 887.974
+LOG: 11668/5
+[Learn]  s: 11665 | learned: 656.122 | baseline: 737.316
+LOG: 11669/5
+[Learn]  s: 11668 | learned: 115.692 | baseline: 128.192
+LOG: 11670/5
+[Learn]  s: 11669 | learned: 258.412 | baseline: 402.594
+LOG: 11671/5
+[Learn]  s: 11666 | learned: 765.530 | baseline: 1380.323
+LOG: 11672/5
+[Learn]  s: 11671 | learned: 214.343 | baseline: 384.460
+LOG: 11673/5
+[Learn]  s: 11672 | learned: 160.255 | baseline: 159.801
+LOG: 11674/5
+[Learn]  s: 11649 | learned: 2718.957 | baseline: 1648.393
+LOG: 11675/5
+[Learn]  s: 11670 | learned: 1318.665 | baseline: 1084.163
+LOG: 11676/5
+[Learn]  s: 11676 | learned: 199.474 | baseline: 200.760
+LOG: 11677/5
+[Learn]  s: 11673 | learned: 731.703 | baseline: 931.769
+[Learn]  s: 11677 | learned: 152.705 | baseline: 169.313
+LOG: 11678/5
+LOG: 11679/5
+[Learn]  s: 11674 | learned: 445.220 | baseline: 536.683
+LOG: 11680/5
+[Learn]  s: 11675 | learned: 367.602 | baseline: 376.770
+LOG: 11681/5
+[Learn]  s: 11681 | learned: 200.170 | baseline: 200.095
+LOG: 11682/5
+[Learn]  s: 11679 | learned: 220.938 | baseline: 444.563
+LOG: 11683/5
+[Learn]  s: 11680 | learned: 466.767 | baseline: 583.489
+LOG: 11684/5
+[Learn]  s: 11683 | learned: 371.078 | baseline: 389.603
+LOG: 11685/5
+[Learn]  s: 11685 | learned: 67.711 | baseline: 74.971
+LOG: 11686/5
+[Learn]  s: 11686 | learned: 59.176 | baseline: 59.176
+LOG: 11687/5
+[Learn]  s: 11684 | learned: 356.386 | baseline: 350.674
+LOG: 11688/5
+[Learn]  s: 11687 | learned: 322.113 | baseline: 331.464
+LOG: 11689/5
+[Learn]  s: 11688 | learned: 37.406 | baseline: 37.406
+LOG: 11690/5
+[Learn]  s: 11690 | learned: 198.774 | baseline: 222.866
+LOG: 11691/5
+[Learn]  s: 11689 | learned: 264.633 | baseline: 195.229
+LOG: 11692/5
+[Learn]  s: 11692 | learned: 277.725 | baseline: 331.573
+LOG: 11693/5
+[Learn]  s: 11678 | learned: 789.816 | baseline: 1122.108
+LOG: 11694/5
+[Learn]  s: 11691 | learned: 256.284 | baseline: 190.790
+LOG: 11695/5
+[Learn]  s: 11694 | learned: 283.277 | baseline: 249.688
+LOG: 11696/5
+[Learn]  s: 11695 | learned: 162.364 | baseline: 278.615
+LOG: 11697/5
+[Learn]  s: 11682 | learned: 1240.654 | baseline: 1478.518
+LOG: 11698/5
+[Learn]  s: 11696 | learned: 214.721 | baseline: 251.714
+[Learn]  s: 11693 | learned: 395.623 | baseline: 542.019
+LOG: 11699/5
+LOG: 11700/5
+[Learn]  s: 11700 | learned: 118.583 | baseline: 116.754
+LOG: 11701/5
+[Learn]  s: 11697 | learned: 463.052 | baseline: 394.877
+LOG: 11702/5
+[Learn]  s: 11701 | learned: 373.700 | baseline: 369.937
+LOG: 11703/5
+[Learn]  s: 11699 | learned: 464.918 | baseline: 366.954
+LOG: 11704/5
+[Learn]  s: 11698 | learned: 591.594 | baseline: 585.963
+LOG: 11705/5
+[Learn]  s: 11705 | learned: 34.853 | baseline: 34.853
+LOG: 11706/5
+[Learn]  s: 11704 | learned: 225.681 | baseline: 227.541
+LOG: 11707/5
+[Learn]  s: 11706 | learned: 246.378 | baseline: 245.941
+LOG: 11708/5
+[Learn]  s: 11708 | learned: 308.806 | baseline: 312.480
+LOG: 11709/5
+[Learn]  s: 11703 | learned: 877.134 | baseline: 995.801
+LOG: 11710/5
+[Learn]  s: 11710 | learned: 45.656 | baseline: 45.656
+LOG: 11711/5
+[Learn]  s: 11707 | learned: 594.473 | baseline: 575.850
+[Learn]  s: 11702 | learned: 844.538 | baseline: 1190.552
+LOG: 11712/5
+LOG: 11713/5
+[Learn]  s: 11713 | learned: 419.128 | baseline: 442.619
+LOG: 11714/5
+[Learn]  s: 11709 | learned: 399.804 | baseline: 396.922
+LOG: 11715/5
+[Learn]  s: 11711 | learned: 824.977 | baseline: 970.889
+LOG: 11716/5
+[Learn]  s: 11714 | learned: 968.999 | baseline: 577.702
+LOG: 11717/5
+[Learn]  s: 11712 | learned: 642.386 | baseline: 733.575
+LOG: 11718/5
+[Learn]  s: 11716 | learned: 455.419 | baseline: 480.084
+LOG: 11719/5
+[Learn]  s: 11719 | learned: 260.009 | baseline: 254.701
+LOG: 11720/5
+[Learn]  s: 11720 | learned: 46.167 | baseline: 46.167
+LOG: 11721/5
+[Learn]  s: 11721 | learned: 234.108 | baseline: 204.557
+LOG: 11722/5
+[Learn]  s: 11717 | learned: 494.840 | baseline: 485.419
+LOG: 11723/5
+[Learn]  s: 11718 | learned: 620.738 | baseline: 654.088
+LOG: 11724/5
+[Learn]  s: 11715 | learned: 759.981 | baseline: 1169.723
+LOG: 11725/5
+[Learn]  s: 11724 | learned: 241.063 | baseline: 191.140
+[Learn]  s: 11722 | learned: 434.937 | baseline: 472.870
+LOG: 11726/5
+LOG: 11727/5
+[Learn]  s: 11725 | learned: 128.637 | baseline: 128.608
+LOG: 11728/5
+[Learn]  s: 11728 | learned: 92.198 | baseline: 89.259
+LOG: 11729/5
+[Learn]  s: 11727 | learned: 288.684 | baseline: 322.861
+LOG: 11730/5
+[Learn]  s: 11729 | learned: 82.750 | baseline: 84.044
+LOG: 11731/5
+[Learn]  s: 11730 | learned: 176.492 | baseline: 181.767
+LOG: 11732/5
+[Learn]  s: 11723 | learned: 680.166 | baseline: 710.860
+LOG: 11733/5
+[Learn]  s: 11726 | learned: 352.860 | baseline: 397.469
+LOG: 11734/5
+[Learn]  s: 11733 | learned: 83.276 | baseline: 82.294
+LOG: 11735/5
+[Learn]  s: 11734 | learned: 128.893 | baseline: 154.917
+LOG: 11736/5
+[Learn]  s: 11736 | learned: 55.566 | baseline: 55.566
+LOG: 11737/5
+[Learn]  s: 11732 | learned: 823.619 | baseline: 1098.259
+LOG: 11738/5
+[Learn]  s: 11738 | learned: 329.370 | baseline: 337.748
+LOG: 11739/5
+[Learn]  s: 11739 | learned: 49.079 | baseline: 49.079
+LOG: 11740/5
+[Learn]  s: 11740 | learned: 96.966 | baseline: 96.966
+LOG: 11741/5
+[Learn]  s: 11737 | learned: 687.725 | baseline: 696.632
+LOG: 11742/5
+[Learn]  s: 11742 | learned: 103.809 | baseline: 103.891
+LOG: 11743/5
+[Learn]  s: 11743 | learned: 89.351 | baseline: 89.352
+LOG: 11744/5
+[Learn]  s: 11731 | learned: 1166.282 | baseline: 1213.179
+LOG: 11745/5
+[Learn]  s: 11745 | learned: 209.394 | baseline: 209.409
+LOG: 11746/5
+[Learn]  s: 11744 | learned: 455.099 | baseline: 986.320
+LOG: 11747/5
+[Learn]  s: 11735 | learned: 1256.170 | baseline: 1357.344
+LOG: 11748/5
+[Learn]  s: 11748 | learned: 37.291 | baseline: 37.291
+LOG: 11749/5
+[Learn]  s: 11746 | learned: 472.195 | baseline: 652.909
+LOG: 11750/5
+[Learn]  s: 11749 | learned: 220.499 | baseline: 362.505
+LOG: 11751/5
+[Learn]  s: 11751 | learned: 41.871 | baseline: 32.155
+LOG: 11752/5
+[Learn]  s: 11752 | learned: 91.057 | baseline: 91.057
+LOG: 11753/5
+[Learn]  s: 11750 | learned: 426.752 | baseline: 552.580
+LOG: 11754/5
+[Learn]  s: 11754 | learned: 60.665 | baseline: 60.956
+LOG: 11755/5
+[Learn]  s: 11741 | learned: 947.453 | baseline: 1195.271
+LOG: 11756/5
+[Learn]  s: 11755 | learned: 110.615 | baseline: 110.593
+LOG: 11757/5
+[Learn]  s: 11757 | learned: 216.157 | baseline: 190.473
+LOG: 11758/5
+[Learn]  s: 11756 | learned: 473.172 | baseline: 390.228
+LOG: 11759/5
+[Learn]  s: 11753 | learned: 625.859 | baseline: 637.402
+LOG: 11760/5
+[Learn]  s: 11760 | learned: 33.337 | baseline: 33.337
+LOG: 11761/5
+[Learn]  s: 11759 | learned: 441.786 | baseline: 513.972
+LOG: 11762/5
+[Learn]  s: 11758 | learned: 808.381 | baseline: 982.435
+LOG: 11763/5
+[Learn]  s: 11747 | learned: 1833.254 | baseline: 1821.097
+LOG: 11764/5
+[Learn]  s: 11764 | learned: 48.490 | baseline: 48.490
+LOG: 11765/5
+[Learn]  s: 11765 | learned: 12.427 | baseline: 12.427
+LOG: 11766/5
+[Learn]  s: 11762 | learned: 855.375 | baseline: 790.007
+LOG: 11767/5
+[Learn]  s: 11761 | learned: 810.871 | baseline: 1207.291
+LOG: 11768/5
+[Learn]  s: 11768 | learned: 33.655 | baseline: 33.655
+LOG: 11769/5
+[Learn]  s: 11767 | learned: 103.616 | baseline: 103.646
+LOG: 11770/5
+[Learn]  s: 11770 | learned: 39.308 | baseline: 39.401
+LOG: 11771/5
+[Learn]  s: 11771 | learned: 146.400 | baseline: 146.351
+LOG: 11772/5
+[Learn]  s: 11763 | learned: 1037.550 | baseline: 1067.698
+LOG: 11773/5
+[Learn]  s: 11772 | learned: 657.637 | baseline: 771.027
+LOG: 11774/5
+[Learn]  s: 11769 | learned: 846.632 | baseline: 775.920
+LOG: 11775/5
+[Learn]  s: 11774 | learned: 197.145 | baseline: 299.375
+LOG: 11776/5
+[Learn]  s: 11776 | learned: 13.324 | baseline: 13.324
+LOG: 11777/5
+[Learn]  s: 11773 | learned: 637.289 | baseline: 824.950
+LOG: 11778/5
+[Learn]  s: 11766 | learned: 1136.191 | baseline: 1173.528
+LOG: 11779/5
+[Learn]  s: 11779 | learned: 125.226 | baseline: 125.226
+LOG: 11780/5
+[Learn]  s: 11778 | learned: 493.939 | baseline: 550.824
+LOG: 11781/5
+[Learn]  s: 11781 | learned: 98.034 | baseline: 98.034
+LOG: 11782/5
+[Learn]  s: 11777 | learned: 879.506 | baseline: 1037.137
+LOG: 11783/5
+[Learn]  s: 11780 | learned: 499.997 | baseline: 695.444
+LOG: 11784/5
+[Learn]  s: 11782 | learned: 252.095 | baseline: 235.630
+LOG: 11785/5
+[Learn]  s: 11775 | learned: 969.883 | baseline: 1599.081
+[Learn]  s: 11785 | learned: 304.373 | baseline: 302.646
+[Learn]  s: 11784 | learned: 435.737 | baseline: 698.624
+[Learn]  s: 11783 | learned: 558.700 | baseline: 1459.872
+LOG: 11788/5
+LOG: 11789/5
+LOG: 11787/5
+LOG: 11786/5
+[Learn]  s: 11788 | learned: 143.233 | baseline: 143.463
+LOG: 11790/5
+[Learn]  s: 11789 | learned: 262.768 | baseline: 430.738
+LOG: 11791/5
+[Learn]  s: 11791 | learned: 169.539 | baseline: 169.539
+LOG: 11792/5
+[Learn]  s: 11792 | learned: 78.261 | baseline: 80.108
+LOG: 11793/5
+[Learn]  s: 11793 | learned: 74.767 | baseline: 74.755
+LOG: 11794/5
+[Learn]  s: 11790 | learned: 350.930 | baseline: 351.344
+LOG: 11795/5
+[Learn]  s: 11787 | learned: 530.730 | baseline: 484.426
+LOG: 11796/5
+[Learn]  s: 11795 | learned: 226.417 | baseline: 258.521
+LOG: 11797/5
+[Learn]  s: 11786 | learned: 827.977 | baseline: 995.119
+LOG: 11798/5
+[Learn]  s: 11796 | learned: 162.313 | baseline: 183.919
+LOG: 11799/5
+[Learn]  s: 11798 | learned: 151.060 | baseline: 151.077
+LOG: 11800/5
+[Learn]  s: 11794 | learned: 527.487 | baseline: 591.918
+LOG: 11801/5
+[Learn]  s: 11801 | learned: 198.652 | baseline: 215.805
+LOG: 11802/5
+[Learn]  s: 11799 | learned: 276.785 | baseline: 276.826
+LOG: 11803/5
+[Learn]  s: 11800 | learned: 216.905 | baseline: 218.238
+LOG: 11804/5
+[Learn]  s: 11802 | learned: 76.409 | baseline: 76.409
+LOG: 11805/5
+[Learn]  s: 11804 | learned: 53.401 | baseline: 53.401
+LOG: 11806/5
+[Learn]  s: 11805 | learned: 80.020 | baseline: 80.020
+LOG: 11807/5
+[Learn]  s: 11807 | learned: 130.289 | baseline: 130.354
+[Learn]  s: 11803 | learned: 234.652 | baseline: 274.990
+LOG: 11808/5
+LOG: 11809/5
+[Learn]  s: 11808 | learned: 65.333 | baseline: 65.333
+LOG: 11810/5
+[Learn]  s: 11806 | learned: 342.690 | baseline: 356.429
+LOG: 11811/5
+[Learn]  s: 11797 | learned: 687.141 | baseline: 659.962
+LOG: 11812/5
+[Learn]  s: 11812 | learned: 22.378 | baseline: 22.378
+LOG: 11813/5
+[Learn]  s: 11811 | learned: 375.567 | baseline: 294.165
+[Learn]  s: 11809 | learned: 266.466 | baseline: 198.224
+LOG: 11814/5
+LOG: 11815/5
+[Learn]  s: 11814 | learned: 119.654 | baseline: 119.615
+LOG: 11816/5
+[Learn]  s: 11813 | learned: 153.917 | baseline: 148.822
+LOG: 11817/5
+[Learn]  s: 11815 | learned: 238.415 | baseline: 238.136
+LOG: 11818/5
+[Learn]  s: 11818 | learned: 39.400 | baseline: 39.400
+LOG: 11819/5
+[Learn]  s: 11816 | learned: 310.971 | baseline: 282.965
+LOG: 11820/5
+[Learn]  s: 11819 | learned: 387.702 | baseline: 374.024
+LOG: 11821/5
+[Learn]  s: 11820 | learned: 280.847 | baseline: 282.221
+LOG: 11822/5
+[Learn]  s: 11817 | learned: 608.337 | baseline: 598.709
+LOG: 11823/5
+[Learn]  s: 11810 | learned: 793.234 | baseline: 866.986
+LOG: 11824/5
+[Learn]  s: 11821 | learned: 463.241 | baseline: 463.597
+LOG: 11825/5
+[Learn]  s: 11824 | learned: 136.431 | baseline: 136.468
+LOG: 11826/5
+[Learn]  s: 11825 | learned: 224.342 | baseline: 222.527
+LOG: 11827/5
+[Learn]  s: 11822 | learned: 406.103 | baseline: 474.323
+LOG: 11828/5
+[Learn]  s: 11827 | learned: 363.230 | baseline: 356.853
+LOG: 11829/5
+[Learn]  s: 11828 | learned: 428.341 | baseline: 430.084
+LOG: 11830/5
+[Learn]  s: 11829 | learned: 348.437 | baseline: 410.589
+LOG: 11831/5
+[Learn]  s: 11830 | learned: 243.432 | baseline: 287.790
+LOG: 11832/5
+[Learn]  s: 11831 | learned: 276.545 | baseline: 276.140
+LOG: 11833/5
+[Learn]  s: 11826 | learned: 749.216 | baseline: 894.292
+LOG: 11834/5
+[Learn]  s: 11834 | learned: 91.454 | baseline: 91.454
+LOG: 11835/5
+[Learn]  s: 11833 | learned: 352.348 | baseline: 356.603
+LOG: 11836/5
+[Learn]  s: 11835 | learned: 236.218 | baseline: 244.763
+LOG: 11837/5
+[Learn]  s: 11832 | learned: 490.446 | baseline: 809.651
+LOG: 11838/5
+[Learn]  s: 11836 | learned: 310.927 | baseline: 233.115
+LOG: 11839/5
+[Learn]  s: 11823 | learned: 1232.745 | baseline: 1101.660
+LOG: 11840/5
+[Learn]  s: 11838 | learned: 149.034 | baseline: 166.969
+LOG: 11841/5
+[Learn]  s: 11840 | learned: 269.527 | baseline: 283.062
+LOG: 11842/5
+[Learn]  s: 11839 | learned: 267.308 | baseline: 286.945
+LOG: 11843/5
+[Learn]  s: 11842 | learned: 67.495 | baseline: 84.078
+LOG: 11844/5
+[Learn]  s: 11841 | learned: 310.627 | baseline: 316.087
+LOG: 11845/5
+[Learn]  s: 11843 | learned: 658.360 | baseline: 706.505
+LOG: 11846/5
+[Learn]  s: 11845 | learned: 766.270 | baseline: 986.907
+LOG: 11847/5
+[Learn]  s: 11847 | learned: 194.515 | baseline: 194.375
+LOG: 11848/5
+[Learn]  s: 11837 | learned: 994.933 | baseline: 1087.911
+LOG: 11849/5
+[Learn]  s: 11848 | learned: 595.016 | baseline: 552.578
+LOG: 11850/5
+[Learn]  s: 11846 | learned: 564.223 | baseline: 649.265
+LOG: 11851/5
+[Learn]  s: 11851 | learned: 215.759 | baseline: 204.741
+LOG: 11852/5
+[Learn]  s: 11844 | learned: 1460.418 | baseline: 1497.929
+LOG: 11853/5
+[Learn]  s: 11853 | learned: 196.772 | baseline: 254.463
+LOG: 11854/5
+[Learn]  s: 11849 | learned: 642.112 | baseline: 1050.513
+LOG: 11855/5
+[Learn]  s: 11852 | learned: 437.483 | baseline: 481.327
+LOG: 11856/5
+[Learn]  s: 11850 | learned: 586.883 | baseline: 737.467
+LOG: 11857/5
+[Learn]  s: 11855 | learned: 272.802 | baseline: 134.371
+LOG: 11858/5
+[Learn]  s: 11857 | learned: 21.093 | baseline: 21.093
+LOG: 11859/5
+[Learn]  s: 11856 | learned: 200.684 | baseline: 207.139
+LOG: 11860/5
+[Learn]  s: 11860 | learned: 20.347 | baseline: 20.347
+LOG: 11861/5
+[Learn]  s: 11859 | learned: 140.997 | baseline: 141.018
+LOG: 11862/5
+[Learn]  s: 11861 | learned: 125.661 | baseline: 244.534
+LOG: 11863/5
+[Learn]  s: 11862 | learned: 209.130 | baseline: 209.158
+LOG: 11864/5
+[Learn]  s: 11863 | learned: 164.785 | baseline: 175.717
+LOG: 11865/5
+[Learn]  s: 11854 | learned: 787.370 | baseline: 883.253
+LOG: 11866/5
+[Learn]  s: 11858 | learned: 577.683 | baseline: 624.554
+LOG: 11867/5
+[Learn]  s: 11867 | learned: 238.329 | baseline: 181.003
+LOG: 11868/5
+[Learn]  s: 11866 | learned: 679.440 | baseline: 890.498
+LOG: 11869/5
+[Learn]  s: 11868 | learned: 378.419 | baseline: 438.423
+LOG: 11870/5
+[Learn]  s: 11869 | learned: 290.282 | baseline: 341.542
+LOG: 11871/5
+[Learn]  s: 11871 | learned: 161.629 | baseline: 161.827
+LOG: 11872/5
+[Learn]  s: 11864 | learned: 1012.080 | baseline: 1101.702
+LOG: 11873/5
+[Learn]  s: 11865 | learned: 975.792 | baseline: 943.042
+LOG: 11874/5
+[Learn]  s: 11872 | learned: 414.024 | baseline: 575.984
+LOG: 11875/5
+[Learn]  s: 11873 | learned: 699.340 | baseline: 771.298
+LOG: 11876/5
+[Learn]  s: 11876 | learned: 219.161 | baseline: 215.940
+LOG: 11877/5
+[Learn]  s: 11875 | learned: 352.076 | baseline: 466.644
+LOG: 11878/5
+[Learn]  s: 11878 | learned: 228.895 | baseline: 141.812
+LOG: 11879/5
+[Learn]  s: 11879 | learned: 72.800 | baseline: 72.800
+LOG: 11880/5
+[Learn]  s: 11874 | learned: 682.411 | baseline: 866.151
+LOG: 11881/5
+[Learn]  s: 11880 | learned: 270.886 | baseline: 270.588
+LOG: 11882/5
+[Learn]  s: 11882 | learned: 284.893 | baseline: 268.507
+LOG: 11883/5
+[Learn]  s: 11881 | learned: 339.403 | baseline: 282.831
+LOG: 11884/5
+[Learn]  s: 11877 | learned: 737.819 | baseline: 1021.197
+LOG: 11885/5
+[Learn]  s: 11885 | learned: 161.586 | baseline: 161.421
+LOG: 11886/5
+[Learn]  s: 11886 | learned: 394.134 | baseline: 394.415
+[Learn]  s: 11884 | learned: 592.321 | baseline: 706.584
+LOG: 11887/5
+LOG: 11888/5
+[Learn]  s: 11883 | learned: 794.427 | baseline: 924.708
+LOG: 11889/5
+[Learn]  s: 11887 | learned: 384.186 | baseline: 447.754
+LOG: 11890/5
+[Learn]  s: 11890 | learned: 42.734 | baseline: 42.734
+LOG: 11891/5
+[Learn]  s: 11889 | learned: 402.841 | baseline: 404.760
+LOG: 11892/5
+[Learn]  s: 11891 | learned: 1591.513 | baseline: 547.808
+LOG: 11893/5
+[Learn]  s: 11893 | learned: 114.935 | baseline: 114.925
+LOG: 11894/5
+[Learn]  s: 11870 | learned: 3820.486 | baseline: 2540.797
+LOG: 11895/5
+[Learn]  s: 11892 | learned: 1004.838 | baseline: 939.252
+LOG: 11896/5
+[Learn]  s: 11894 | learned: 481.046 | baseline: 540.812
+LOG: 11897/5
+[Learn]  s: 11897 | learned: 142.458 | baseline: 142.122
+[Learn]  s: 11896 | learned: 416.008 | baseline: 631.001
+LOG: 11898/5
+LOG: 11899/5
+[Learn]  s: 11895 | learned: 363.626 | baseline: 363.842
+LOG: 11900/5
+[Learn]  s: 11900 | learned: 186.535 | baseline: 203.040
+LOG: 11901/5
+[Learn]  s: 11888 | learned: 1125.383 | baseline: 2804.430
+LOG: 11902/5
+[Learn]  s: 11898 | learned: 568.398 | baseline: 898.723
+LOG: 11903/5
+[Learn]  s: 11903 | learned: 35.270 | baseline: 35.270
+LOG: 11904/5
+[Learn]  s: 11901 | learned: 270.706 | baseline: 270.709
+LOG: 11905/5
+[Learn]  s: 11904 | learned: 226.007 | baseline: 270.453
+LOG: 11906/5
+[Learn]  s: 11902 | learned: 508.354 | baseline: 432.445
+LOG: 11907/5
+[Learn]  s: 11907 | learned: 181.950 | baseline: 180.193
+LOG: 11908/5
+[Learn]  s: 11899 | learned: 990.850 | baseline: 870.647
+LOG: 11909/5
+[Learn]  s: 11906 | learned: 512.193 | baseline: 575.272
+LOG: 11910/5
+[Learn]  s: 11909 | learned: 94.558 | baseline: 94.558
+LOG: 11911/5
+[Learn]  s: 11908 | learned: 340.164 | baseline: 430.717
+LOG: 11912/5
+[Learn]  s: 11910 | learned: 325.255 | baseline: 342.464
+LOG: 11913/5
+[Learn]  s: 11912 | learned: 142.958 | baseline: 142.980
+LOG: 11914/5
+[Learn]  s: 11905 | learned: 1031.175 | baseline: 1285.251
+LOG: 11915/5
+[Learn]  s: 11911 | learned: 318.904 | baseline: 435.632
+LOG: 11916/5
+[Learn]  s: 11915 | learned: 180.277 | baseline: 180.491
+LOG: 11917/5
+[Learn]  s: 11913 | learned: 328.285 | baseline: 182.011
+LOG: 11918/5
+[Learn]  s: 11918 | learned: 139.847 | baseline: 139.880
+LOG: 11919/5
+[Learn]  s: 11919 | learned: 114.849 | baseline: 116.437
+LOG: 11920/5
+[Learn]  s: 11917 | learned: 332.193 | baseline: 388.556
+LOG: 11921/5
+[Learn]  s: 11916 | learned: 584.389 | baseline: 658.288
+LOG: 11922/5
+[Learn]  s: 11920 | learned: 378.087 | baseline: 489.676
+LOG: 11923/5
+[Learn]  s: 11921 | learned: 548.286 | baseline: 589.867
+LOG: 11924/5
+[Learn]  s: 11914 | learned: 655.742 | baseline: 895.322
+LOG: 11925/5
+[Learn]  s: 11924 | learned: 337.635 | baseline: 332.872
+LOG: 11926/5
+[Learn]  s: 11923 | learned: 508.802 | baseline: 302.448
+LOG: 11927/5
+[Learn]  s: 11927 | learned: 0.000 | baseline: 0.000
+LOG: 11928/5
+[Learn]  s: 11926 | learned: 199.819 | baseline: 199.809
+LOG: 11929/5
+[Learn]  s: 11928 | learned: 150.527 | baseline: 152.031
+LOG: 11930/5
+[Learn]  s: 11930 | learned: 15.580 | baseline: 15.580
+LOG: 11931/5
+[Learn]  s: 11929 | learned: 179.212 | baseline: 240.021
+LOG: 11932/5
+[Learn]  s: 11925 | learned: 397.903 | baseline: 417.307
+LOG: 11933/5
+[Learn]  s: 11933 | learned: 173.885 | baseline: 197.936
+LOG: 11934/5
+[Learn]  s: 11931 | learned: 382.225 | baseline: 382.225
+LOG: 11935/5
+[Learn]  s: 11934 | learned: 33.266 | baseline: 33.266
+LOG: 11936/5
+[Learn]  s: 11936 | learned: 169.949 | baseline: 169.794
+LOG: 11937/5
+[Learn]  s: 11935 | learned: 210.166 | baseline: 211.697
+LOG: 11938/5
+[Learn]  s: 11937 | learned: 303.891 | baseline: 272.209
+LOG: 11939/5
+[Learn]  s: 11932 | learned: 460.146 | baseline: 1102.352
+LOG: 11940/5
+[Learn]  s: 11922 | learned: 1213.959 | baseline: 1401.614
+LOG: 11941/5
+[Learn]  s: 11941 | learned: 143.152 | baseline: 176.658
+LOG: 11942/5
+[Learn]  s: 11938 | learned: 517.329 | baseline: 700.516
+LOG: 11943/5
+[Learn]  s: 11943 | learned: 65.970 | baseline: 65.970
+LOG: 11944/5
+[Learn]  s: 11939 | learned: 681.803 | baseline: 814.025
+LOG: 11945/5
+[Learn]  s: 11942 | learned: 232.459 | baseline: 228.882
+LOG: 11946/5
+[Learn]  s: 11945 | learned: 131.834 | baseline: 160.954
+LOG: 11947/5
+[Learn]  s: 11940 | learned: 627.371 | baseline: 1070.539
+LOG: 11948/5
+[Learn]  s: 11946 | learned: 317.134 | baseline: 360.066
+LOG: 11949/5
+[Learn]  s: 11947 | learned: 649.361 | baseline: 678.774
+LOG: 11950/5
+[Learn]  s: 11948 | learned: 232.649 | baseline: 458.239
+LOG: 11951/5
+[Learn]  s: 11950 | learned: 755.746 | baseline: 800.416
+LOG: 11952/5
+[Learn]  s: 11951 | learned: 489.631 | baseline: 694.400
+LOG: 11953/5
+[Learn]  s: 11944 | learned: 865.654 | baseline: 1250.177
+LOG: 11954/5
+[Learn]  s: 11953 | learned: 364.937 | baseline: 363.978
+LOG: 11955/5
+[Learn]  s: 11955 | learned: 57.532 | baseline: 57.532
+LOG: 11956/5
+[Learn]  s: 11952 | learned: 620.680 | baseline: 673.596
+LOG: 11957/5
+[Learn]  s: 11949 | learned: 1373.966 | baseline: 1418.453
+LOG: 11958/5
+[Learn]  s: 11954 | learned: 498.313 | baseline: 515.735
+LOG: 11959/5
+[Learn]  s: 11957 | learned: 207.678 | baseline: 209.125
+LOG: 11960/5
+[Learn]  s: 11956 | learned: 351.496 | baseline: 332.002
+LOG: 11961/5
+[Learn]  s: 11961 | learned: 60.339 | baseline: 60.339
+LOG: 11962/5
+[Learn]  s: 11959 | learned: 168.390 | baseline: 308.174
+LOG: 11963/5
+[Learn]  s: 11962 | learned: 189.848 | baseline: 190.154
+LOG: 11964/5
+[Learn]  s: 11964 | learned: 23.200 | baseline: 23.200
+LOG: 11965/5
+[Learn]  s: 11960 | learned: 308.229 | baseline: 382.306
+LOG: 11966/5
+[Learn]  s: 11965 | learned: 69.884 | baseline: 69.884
+LOG: 11967/5
+[Learn]  s: 11966 | learned: 111.757 | baseline: 120.789
+LOG: 11968/5
+[Learn]  s: 11958 | learned: 614.446 | baseline: 791.563
+LOG: 11969/5
+[Learn]  s: 11963 | learned: 897.355 | baseline: 974.009
+LOG: 11970/5
+[Learn]  s: 11969 | learned: 42.391 | baseline: 42.391
+LOG: 11971/5
+[Learn]  s: 11971 | learned: 198.970 | baseline: 242.628
+LOG: 11972/5
+[Learn]  s: 11972 | learned: 118.389 | baseline: 118.389
+LOG: 11973/5
+[Learn]  s: 11970 | learned: 331.496 | baseline: 338.170
+LOG: 11974/5
+[Learn]  s: 11968 | learned: 637.373 | baseline: 674.319
+LOG: 11975/5
+[Learn]  s: 11974 | learned: 217.226 | baseline: 217.288
+LOG: 11976/5
+[Learn]  s: 11973 | learned: 245.057 | baseline: 245.100
+LOG: 11977/5
+[Learn]  s: 11976 | learned: 244.503 | baseline: 243.617
+LOG: 11978/5
+[Learn]  s: 11975 | learned: 379.015 | baseline: 379.109
+LOG: 11979/5
+[Learn]  s: 11977 | learned: 492.956 | baseline: 609.702
+LOG: 11980/5
+[Learn]  s: 11967 | learned: 1414.534 | baseline: 1459.806
+LOG: 11981/5
+[Learn]  s: 11981 | learned: 487.757 | baseline: 670.399
+LOG: 11982/5
+[Learn]  s: 11982 | learned: 814.113 | baseline: 1028.471
+LOG: 11983/5
+[Learn]  s: 11980 | learned: 1418.375 | baseline: 1542.502
+LOG: 11984/5
+[Learn]  s: 11983 | learned: 383.322 | baseline: 556.423
+LOG: 11985/5
+[Learn]  s: 11979 | learned: 2388.272 | baseline: 1862.827
+LOG: 11986/5
+[Learn]  s: 11986 | learned: 126.854 | baseline: 121.529
+LOG: 11987/5
+[Learn]  s: 11985 | learned: 404.056 | baseline: 312.945
+LOG: 11988/5
+[Learn]  s: 11988 | learned: 333.641 | baseline: 289.603
+LOG: 11989/5
+[Learn]  s: 11989 | learned: 69.471 | baseline: 69.471
+LOG: 11990/5
+[Learn]  s: 11987 | learned: 745.604 | baseline: 839.318
+LOG: 11991/5
+[Learn]  s: 11990 | learned: 160.446 | baseline: 159.148
+LOG: 11992/5
+[Learn]  s: 11984 | learned: 785.386 | baseline: 811.733
+LOG: 11993/5
+[Learn]  s: 11991 | learned: 295.577 | baseline: 319.248
+LOG: 11994/5
+[Learn]  s: 11994 | learned: 182.688 | baseline: 294.577
+LOG: 11995/5
+[Learn]  s: 11978 | learned: 2543.327 | baseline: 3191.323
+LOG: 11996/5
+[Learn]  s: 11992 | learned: 433.626 | baseline: 431.326
+LOG: 11997/5
+[Learn]  s: 11993 | learned: 566.133 | baseline: 743.732
+LOG: 11998/5
+[Learn]  s: 11998 | learned: 167.036 | baseline: 166.965
+LOG: 11999/5
+[Learn]  s: 11995 | learned: 649.513 | baseline: 627.352
+[Learn]  s: 11996 | learned: 235.994 | baseline: 255.345
+[Learn]  s: 11997 | learned: 399.982 | baseline: 419.513
+[Learn]  s: 11999 | learned: 398.701 | baseline: 600.675
+LOG: 11008/5
+LOG: 11008/5
+LOG: 11008/5
+LOG: 11008/5
+LOG: 11008/5
+LOG: 11008/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11008/5
+LOG: 11008/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11008/5
+LOG: 11008/5
+LOG: 11008/5
+LOG: 11008/5
+LOG: 11010/5
+LOG: 11010/5
+LOG: 11010/5
+LOG: 11010/5
+LOG: 11004/5
+LOG: 11010/5
+LOG: 11010/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11010/5
+LOG: 11010/5
+LOG: 11010/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11004/5
+LOG: 11010/5
+LOG: 11069/5
+LOG: 11069/5
+LOG: 11100/5
+LOG: 11100/5
+LOG: 11100/5
+LOG: 11000
+LOG: 11000
+LOG: 11000
+LOG: 11000
+LOG: 11000
+LOG: 11000
+LOG: 11000

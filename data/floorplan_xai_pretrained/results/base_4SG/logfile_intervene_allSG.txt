@@ -1,0 +1,109 @@
+LOG: 11591
+LOG: 11336
+LOG: 11304
+LOG: 11870
+[Learn]  s: 11304 | learned: 2586.905 | intervene: 922.002 | baseline: 931.829
+LOG: 11245
+[Learn]  s: 11591 | learned: 3375.214 | intervene: 1791.127 | baseline: 2041.470
+LOG: 11649
+[Learn]  s: 11336 | learned: 3428.975 | intervene: 2112.530 | baseline: 2316.487
+LOG: 11891
+[Learn]  s: 11870 | learned: 3820.486 | intervene: 2384.589 | baseline: 2540.797
+LOG: 11315
+[Learn]  s: 11891 | learned: 1591.513 | intervene: 501.376 | baseline: 547.808
+LOG: 11069
+[Learn]  s: 11245 | learned: 2499.588 | intervene: 1368.018 | baseline: 1418.516
+LOG: 11202
+[Learn]  s: 11649 | learned: 2718.957 | intervene: 1203.899 | baseline: 1648.393
+LOG: 11614
+[Learn]  s: 11202 | learned: 1227.890 | intervene: 1173.982 | baseline: 507.027
+LOG: 11576
+[Learn]  s: 11315 | learned: 3007.738 | intervene: 1753.970 | baseline: 2193.551
+LOG: 11100
+[Learn]  s: 11069 | learned: 1091.985 | intervene: 1147.306 | baseline: 299.000
+LOG: 11979
+[Learn]  s: 11614 | learned: 1958.159 | intervene: 788.901 | baseline: 1268.784
+LOG: 11714
+[Learn]  s: 11576 | learned: 2124.768 | intervene: 1367.174 | baseline: 1442.164
+LOG: 11430
+[Learn]  s: 11430 | learned: 675.345 | intervene: 475.950 | baseline: 286.989
+LOG: 11267
+[Learn]  s: 11714 | learned: 968.999 | intervene: 429.588 | baseline: 577.702
+LOG: 11064
+[Learn]  s: 11100 | learned: 2114.649 | intervene: 1417.322 | baseline: 1527.380
+LOG: 11278
+[Learn]  s: 11064 | learned: 894.020 | intervene: 578.976 | baseline: 598.582
+[Learn]  s: 11267 | learned: 1719.676 | intervene: 1265.478 | baseline: 1341.944
+LOG: 11979
+LOG: 11979
+LOG: 11979
+LOG: 11367
+LOG: 11193
+LOG: 11278
+[Learn]  s: 11367 | learned: 505.534 | intervene: 212.829 | baseline: 225.622
+LOG: 11670
+[Learn] [ERR] s: 11278 | learned: 700.439 | intervene: 97.834 | baseline: 409.045
+LOG: 11385
+[Learn] [ERR] s: 11385 | learned: 1130.102 | intervene: 347.195 | baseline: 902.538
+LOG: 11180
+[Learn]  s: 11670 | learned: 1318.665 | intervene: 983.331 | baseline: 1084.163
+LOG: 11923
+[Learn]  s: 11923 | learned: 508.802 | intervene: 512.901 | baseline: 302.448
+LOG: 11195
+[Learn]  s: 11180 | learned: 1023.500 | intervene: 855.243 | baseline: 812.502
+LOG: 11642
+[Learn] [ERR] s: 11979 | learned: 2388.272 | intervene: 112.341 | baseline: 1862.827
+LOG: 11462
+[Learn]  s: 11642 | learned: 467.563 | intervene: 300.937 | baseline: 287.600
+LOG: 11010
+[Learn]  s: 11462 | learned: 407.446 | intervene: 238.931 | baseline: 236.110
+LOG: 11386
+[Learn] [ERR] s: 11386 | learned: 338.277 | intervene: 0.000 | baseline: 187.962
+LOG: 11913
+[Learn]  s: 11010 | learned: 682.285 | intervene: 646.904 | baseline: 523.317
+LOG: 11103
+[Learn]  s: 11913 | learned: 328.285 | intervene: 209.050 | baseline: 182.011
+LOG: 11474
+[Learn]  s: 11195 | learned: 1272.504 | intervene: 1990.459 | baseline: 1083.718
+LOG: 11855
+[Learn]  s: 11855 | learned: 272.802 | intervene: 160.783 | baseline: 134.371
+LOG: 11823
+[Learn]  s: 11103 | learned: 594.215 | intervene: 594.215 | baseline: 448.676
+LOG: 11641
+[Learn]  s: 11641 | learned: 400.611 | intervene: 296.554 | baseline: 270.182
+LOG: 11408
+[Learn] [ERR] s: 11408 | learned: 361.553 | intervene: 208.169 | baseline: 234.710
+LOG: 11899
+[Learn]  s: 11474 | learned: 642.998 | intervene: 645.404 | baseline: 501.622
+LOG: 11449
+[Learn]  s: 11449 | learned: 344.212 | intervene: 233.444 | baseline: 227.119
+LOG: 11393
+[Learn]  s: 11193 | learned: 2586.190 | intervene: 1934.693 | baseline: 2351.224
+LOG: 11041
+[Learn]  s: 11823 | learned: 1232.745 | intervene: 1172.894 | baseline: 1101.660
+LOG: 11435
+[Learn] [ERR] s: 11435 | learned: 515.210 | intervene: 265.489 | baseline: 406.089
+LOG: 11101
+[Learn] [ERR] s: 11393 | learned: 565.074 | intervene: 219.166 | baseline: 448.266
+LOG: 11610
+[Learn]  s: 11899 | learned: 990.850 | intervene: 752.075 | baseline: 870.647
+LOG: 11422
+[Learn]  s: 11422 | learned: 314.926 | intervene: 909.542 | baseline: 208.907
+LOG: 11546
+[Learn]  s: 11546 | learned: 333.987 | intervene: 333.987 | baseline: 230.071
+LOG: 11048
+[Learn]  s: 11048 | learned: 643.154 | intervene: 476.957 | baseline: 679.035
+LOG: 11070
+[Learn]  s: 11101 | learned: 1272.866 | intervene: 1014.356 | baseline: 1164.223
+LOG: 11699
+[Learn]  s: 11610 | learned: 792.882 | intervene: 764.179 | baseline: 685.192
+LOG: 11618
+[Learn]  s: 11618 | learned: 434.909 | intervene: 339.650 | baseline: 337.219
+[Learn]  s: 11699 | learned: 464.918 | intervene: 418.248 | baseline: 366.954
+LOG: 11041
+LOG: 11070
+LOG: 11041
+LOG: 11041
+LOG: 11070
+[Learn]  s: 11041 | learned: 1843.824 | intervene: 3081.727 | baseline: 1730.518
+[Learn]  s: 11070 | learned: 639.771 | intervene: 646.802 | baseline: 540.588

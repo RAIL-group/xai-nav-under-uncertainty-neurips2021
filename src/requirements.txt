@@ -1,0 +1,21 @@
+
+
+# Core Requirements
+numpy
+scipy
+scikit-image
+shapely==1.6.4
+opencv-python
+pyyaml
+tensorboard
+torch
+torchvision
+
+# Plotting & Data Handling
+matplotlib
+pandas
+
+# Testing
+pytest
+pytest-timeout
+pytest-html
